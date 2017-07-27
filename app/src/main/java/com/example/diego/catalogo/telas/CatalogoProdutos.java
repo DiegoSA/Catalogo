@@ -42,11 +42,12 @@ public class CatalogoProdutos extends AppCompatActivity {
                 R.drawable.audax_sabonete_antisseptico_all_clean,
                 R.drawable.audax_sabonete_desengraxante_5l,
                 R.drawable.audax_sabonete_espuma_all_clean,
-                //R.drawable.aurea_doce_de_leite,
+                R.drawable.aurea_doce_de_leite,
                 R.drawable.aurea_doce_de_leite_com_chocolate,
-                R.drawable.aurea_ketchup,
-                R.drawable.aurea_maionese,
-                R.drawable.aurea_mostarda};
+                //R.drawable.aurea_ketchup,
+                //R.drawable.aurea_maionese,
+                //R.drawable.aurea_mostarda
+                };
         GridView gridView = (GridView) findViewById(R.id.gridView);
         Adaptador adaptador = new Adaptador(CatalogoProdutos.this, itens);
         gridView.setAdapter(adaptador);
