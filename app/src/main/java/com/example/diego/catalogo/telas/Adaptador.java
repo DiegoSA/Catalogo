@@ -4,6 +4,7 @@ import android.content.Context;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseAdapter;
+import android.widget.GridView;
 import android.widget.ImageView;
 
 /**
@@ -39,6 +40,8 @@ public class Adaptador extends BaseAdapter {
     public View getView(int position, View convertView, ViewGroup parent) {
 
         ImageView imageView = new ImageView(context);
+        imageView.setLayoutParams(new GridView.LayoutParams(200,200));
+        imageView.setScaleType(ImageView.ScaleType.FIT_CENTER);
         imageView.setImageResource(itens[position]);
         imageView.setAdjustViewBounds(true);
 
