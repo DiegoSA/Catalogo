@@ -9,6 +9,8 @@ import android.widget.Button;
 import android.widget.CheckBox;
 import android.widget.RadioGroup;
 import android.widget.Toast;
+
+import com.example.diego.catalogo.banco.ScriptSQL;
 import com.example.suporte.catalogo.R;
 
 
@@ -47,21 +49,27 @@ public class TelaOpcoes extends AppCompatActivity {
                         okDep.setOnClickListener(new View.OnClickListener() {
                             @Override
                             public void onClick(View v) {
+                                int[] produtos = new int[]{};
                                 boolean choice = false;
                                 if(limpeza.isChecked()){
                                     choice = true;
+                                    produtos = ScriptSQL.gerarLimpeza();
                                 }
                                 if(papelaria.isChecked()){
                                     choice = true;
+                                    produtos = ScriptSQL.gerarPapelaria();
                                 }
                                 if(descartaveis.isChecked()){
                                     choice = true;
+                                    produtos = ScriptSQL.gerarDescartaveis();
                                 }
                                 if(confeitaria.isChecked()){
                                     choice = true;
+                                    produtos = ScriptSQL.gerarConfeitaria();
                                 }
                                 if(sorveteria.isChecked()){
                                     choice = true;
+                                    produtos = ScriptSQL.gerarSorveteria();
                                 }
                                 if(choice){
                                     Intent intent = new Intent(TelaOpcoes.this, CatalogoProdutos.class);

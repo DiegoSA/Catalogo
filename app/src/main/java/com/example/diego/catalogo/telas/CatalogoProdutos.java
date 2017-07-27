@@ -12,6 +12,9 @@ import android.widget.GridView;
 import com.example.diego.catalogo.banco.DBController;
 import com.example.suporte.catalogo.R;
 
+import java.util.ArrayList;
+import java.util.Collections;
+
 
 public class CatalogoProdutos extends AppCompatActivity {
 
@@ -141,6 +144,7 @@ public class CatalogoProdutos extends AppCompatActivity {
                 R.drawable.bralimpia_vassoura_macia,
                 R.drawable.bralimpia_vassoura_mini_pa_coletora,
                 R.drawable.brlimpia_armacao_profissional,
+                R.drawable.brw_corretivo_em_fita,
                 R.drawable.copobras_copo_balada_300ml,
                 R.drawable.cristalppote_kit_pote_com_tampa_250ml,
                 R.drawable.du_porto_cobertura_1300g,
@@ -148,6 +152,9 @@ public class CatalogoProdutos extends AppCompatActivity {
                 R.drawable.du_porto_po_para_gelados_1kg,
                 R.drawable.mix_pastamix_800g,
                 R.drawable.termica_protetor_fogao};
+
+        ArrayList<Integer> produtos = new ArrayList<Integer>();
+
 
         GridView gridView = (GridView) findViewById(R.id.gridView);
         Adaptador adaptador = new Adaptador(CatalogoProdutos.this, itens);
