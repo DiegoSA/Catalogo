@@ -22,8 +22,8 @@ public class DBHelper extends SQLiteOpenHelper {
     @Override
     public void onCreate(SQLiteDatabase db) {
         db.execSQL(ScriptSQL.createProdutos());
-        db.execSQL(ScriptSQL.createDepartamento());
-        db.execSQL(ScriptSQL.createSegmento());
+        db.execSQL(ScriptSQL.inserirFoto());
+        //db.execSQL(ScriptSQL.createSegmento());
         //db.execSQL(ScriptSQL.inserirFotos());
     }
 

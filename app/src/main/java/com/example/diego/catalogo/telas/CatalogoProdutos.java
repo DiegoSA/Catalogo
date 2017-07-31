@@ -1,5 +1,6 @@
 package com.example.diego.catalogo.telas;
 
+import android.content.res.AssetManager;
 import android.database.Cursor;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
@@ -8,12 +9,21 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.View;
 import android.widget.GridView;
+import android.widget.ImageView;
+import android.widget.Toast;
 
 import com.example.diego.catalogo.banco.DBController;
 import com.example.suporte.catalogo.R;
 
+import java.io.BufferedReader;
+import java.io.FileReader;
+import java.io.IOException;
+import java.io.InputStream;
+import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.LinkedList;
+import java.util.List;
 
 
 public class CatalogoProdutos extends AppCompatActivity {
@@ -26,11 +36,19 @@ public class CatalogoProdutos extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_catalogo_produtos);
 
-        dbController = new DBController(CatalogoProdutos.this);
-        //cursor = dbController.listarProdutos();
-        //preencherCatalogo(cursor);
 
-        int[] itens = new int[]{R.drawable.arcollor_massa_elastica_500g,
+
+
+        dbController = new DBController(CatalogoProdutos.this);
+        cursor = dbController.listarProdutos();
+        ArrayList<Integer> produtos = new ArrayList<Integer>();
+
+        do{
+                produtos.add(this.getResources().getIdentifier(cursor.getString(cursor.getColumnIndexOrThrow("CAMINHO")), "drawable", this.getPackageName()));
+
+        }while(cursor.moveToNext());
+
+        /*int[] itens = new int[]{R.drawable.arcollor_massa_elastica_500g,
                 R.drawable.arcollor_pasta_americana_800g,
                 R.drawable.audax_base_seladora_innovation,
                 R.drawable.audax_cera_liquida_innovation,
@@ -151,22 +169,12 @@ public class CatalogoProdutos extends AppCompatActivity {
                 R.drawable.du_porto_cobertura_chocolate_300g,
                 R.drawable.du_porto_po_para_gelados_1kg,
                 R.drawable.mix_pastamix_800g,
-                R.drawable.termica_protetor_fogao};
+                R.drawable.termica_protetor_fogao};*/
 
-        ArrayList<Integer> produtos = new ArrayList<Integer>();
-
-
-        GridView gridView = (GridView) findViewById(R.id.gridView);
-        Adaptador adaptador = new Adaptador(CatalogoProdutos.this, itens);
-        gridView.setAdapter(adaptador);
+        /*GridView gridView = (GridView) findViewById(R.id.gridView);
+        Adaptador adaptador = new Adaptador(CatalogoProdutos.this, produtos);
+        gridView.setAdapter(adaptador);*/
+        GridView gridView = null;
 
     }
-
-    /*public SimpleCursorAdapter preencherCatalogo(Cursor cursor){
-        String[] columns = new String[]{"CAMINHO", "DESCRICAO"};
-        int[] to = new int[]{R.id.imageViewLeft, R.id.textViewLeft};
-
-        adapter = new SimpleCursorAdapter(getBaseContext(), R.layout.produtos, cursor, columns, to, 0);
-        return adapter;
-    }*/
 }
