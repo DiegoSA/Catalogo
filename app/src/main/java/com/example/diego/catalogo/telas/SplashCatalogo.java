@@ -6,11 +6,13 @@ import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
+
+import com.example.diego.catalogo.banco.DBController;
 import com.example.suporte.catalogo.R;
 
 
 public class SplashCatalogo extends AppCompatActivity {
-
+    private DBController dbController;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

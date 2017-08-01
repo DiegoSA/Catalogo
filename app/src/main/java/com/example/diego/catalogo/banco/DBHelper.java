@@ -14,7 +14,6 @@ public class DBHelper extends SQLiteOpenHelper {
     private static final int DBVersion = 1;
 
     public DBHelper(Context context){
-
         super(context, DBName, null, DBVersion);
     }
 
@@ -22,14 +21,11 @@ public class DBHelper extends SQLiteOpenHelper {
     @Override
     public void onCreate(SQLiteDatabase db) {
         db.execSQL(ScriptSQL.createProdutos());
-        db.execSQL(ScriptSQL.inserirFoto());
-        //db.execSQL(ScriptSQL.createSegmento());
-        //db.execSQL(ScriptSQL.inserirFotos());
     }
 
     @Override
     public void onUpgrade(SQLiteDatabase db, int oldVersion, int newVersion) {
-        db.execSQL("DROP TABLE IF EXISTS CATALOGO");
+        db.execSQL("DROP TABLE IF EXISTS PRODUTOS");
         onCreate(db);
     }
 }

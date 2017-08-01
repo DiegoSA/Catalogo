@@ -1,29 +1,13 @@
 package com.example.diego.catalogo.telas;
 
-import android.content.res.AssetManager;
+
 import android.database.Cursor;
 import android.os.Bundle;
-import android.support.design.widget.FloatingActionButton;
-import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
-import android.support.v7.widget.Toolbar;
-import android.view.View;
 import android.widget.GridView;
-import android.widget.ImageView;
-import android.widget.Toast;
-
 import com.example.diego.catalogo.banco.DBController;
 import com.example.suporte.catalogo.R;
-
-import java.io.BufferedReader;
-import java.io.FileReader;
-import java.io.IOException;
-import java.io.InputStream;
-import java.io.InputStreamReader;
 import java.util.ArrayList;
-import java.util.Collections;
-import java.util.LinkedList;
-import java.util.List;
 
 
 public class CatalogoProdutos extends AppCompatActivity {
@@ -39,16 +23,17 @@ public class CatalogoProdutos extends AppCompatActivity {
 
 
 
-        dbController = new DBController(CatalogoProdutos.this);
-        cursor = dbController.listarProdutos();
+        //dbController = new DBController(getBaseContext());
+        //dbController.preencherBanco(getBaseContext());
+        /*cursor = dbController.listarProdutos();
         ArrayList<Integer> produtos = new ArrayList<Integer>();
 
         do{
-                produtos.add(this.getResources().getIdentifier(cursor.getString(cursor.getColumnIndexOrThrow("CAMINHO")), "drawable", this.getPackageName()));
+                produtos.add(this.getResources().getIdentifier(cursor.getString(cursor.getColumnIndexOrThrow("caminho")), "drawable", this.getPackageName()));
 
         }while(cursor.moveToNext());
 
-        /*int[] itens = new int[]{R.drawable.arcollor_massa_elastica_500g,
+        int[] itens = new int[]{R.drawable.arcollor_massa_elastica_500g,
                 R.drawable.arcollor_pasta_americana_800g,
                 R.drawable.audax_base_seladora_innovation,
                 R.drawable.audax_cera_liquida_innovation,

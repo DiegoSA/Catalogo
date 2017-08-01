@@ -53,23 +53,23 @@ public class TelaOpcoes extends AppCompatActivity {
                                 boolean choice = false;
                                 if(limpeza.isChecked()){
                                     choice = true;
-                                    produtos = ScriptSQL.gerarLimpeza();
+
                                 }
                                 if(papelaria.isChecked()){
                                     choice = true;
-                                    produtos = ScriptSQL.gerarPapelaria();
+
                                 }
                                 if(descartaveis.isChecked()){
                                     choice = true;
-                                    produtos = ScriptSQL.gerarDescartaveis();
+
                                 }
                                 if(confeitaria.isChecked()){
                                     choice = true;
-                                    produtos = ScriptSQL.gerarConfeitaria();
+
                                 }
                                 if(sorveteria.isChecked()){
                                     choice = true;
-                                    produtos = ScriptSQL.gerarSorveteria();
+
                                 }
                                 if(choice){
                                     Intent intent = new Intent(TelaOpcoes.this, CatalogoProdutos.class);
