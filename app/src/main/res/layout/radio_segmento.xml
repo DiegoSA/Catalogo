@@ -27,23 +27,23 @@
                 tools:layout_editor_absoluteY="25dp">
 
                 <RadioButton
-                    android:id="@+id/radioButtonPadaria"
+                    android:id="@+id/radioButtonClinica"
                     android:layout_width="380dp"
                     android:layout_height="48dp"
-                    android:text="Padaria" />
+                    android:text="Clinicas/Hospitais" />
 
                 <RadioButton
-                    android:id="@+id/radioButtonMercadinho"
+                    android:id="@+id/radioButtonHotelaria"
                     android:layout_width="392dp"
                     android:layout_height="48dp"
                     android:layout_weight="0.00"
-                    android:text="Mercadinho" />
+                    android:text="Hotelaria" />
 
                 <RadioButton
-                    android:id="@+id/radioButtonClinica"
+                    android:id="@+id/radioButtonMercadinho"
                     android:layout_width="match_parent"
                     android:layout_height="48dp"
-                    android:text="Clinicas/Hospitais" />
+                    android:text="Supermercado/Panificadora/Frigorificos" />
 
                 <RadioButton
                     android:id="@+id/radioButtonRestaurantes"

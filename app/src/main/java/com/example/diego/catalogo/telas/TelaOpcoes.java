@@ -9,8 +9,6 @@ import android.widget.Button;
 import android.widget.CheckBox;
 import android.widget.RadioGroup;
 import android.widget.Toast;
-
-import com.example.diego.catalogo.banco.ScriptSQL;
 import com.example.suporte.catalogo.R;
 
 
@@ -49,30 +47,53 @@ public class TelaOpcoes extends AppCompatActivity {
                         okDep.setOnClickListener(new View.OnClickListener() {
                             @Override
                             public void onClick(View v) {
-                                int[] produtos = new int[]{};
+                                String opcoes = null;
                                 boolean choice = false;
                                 if(limpeza.isChecked()){
                                     choice = true;
+                                    if(opcoes == null) {
+                                        opcoes = "departamento in (102";
+                                    }else {
+                                        opcoes = opcoes + ",102";
+                                    }
 
                                 }
                                 if(papelaria.isChecked()){
                                     choice = true;
-
+                                    if(opcoes == null) {
+                                        opcoes = "departamento in (103";
+                                    }else {
+                                        opcoes = opcoes + ",103";
+                                    }
                                 }
                                 if(descartaveis.isChecked()){
                                     choice = true;
-
+                                    if(opcoes == null) {
+                                        opcoes = "departamento in (101";
+                                    }else {
+                                        opcoes = opcoes + ",101";
+                                    }
                                 }
                                 if(confeitaria.isChecked()){
                                     choice = true;
-
+                                    if(opcoes == null) {
+                                        opcoes = "departamento in (106";
+                                    }else {
+                                        opcoes = opcoes + ",106";
+                                    }
                                 }
                                 if(sorveteria.isChecked()){
                                     choice = true;
-
+                                    if(opcoes == null) {
+                                        opcoes = "departamento in (100";
+                                    }else {
+                                        opcoes = opcoes + ",100";
+                                    }
                                 }
                                 if(choice){
                                     Intent intent = new Intent(TelaOpcoes.this, CatalogoProdutos.class);
+                                    opcoes = opcoes + ")";
+                                    intent.putExtra("opcoes", opcoes);
                                     startActivity(intent);
                                 }else {
                                     Toast.makeText(getBaseContext(), "Escolha uma(s) da(s) opção(ões)!!", Toast.LENGTH_SHORT).show();
@@ -91,18 +112,27 @@ public class TelaOpcoes extends AppCompatActivity {
                             public void onClick(View v) {
                                 RadioGroup radioSegmento = (RadioGroup) alertDialog.findViewById(R.id.RadioporSegmento);
                                 int selection = radioSegmento.getCheckedRadioButtonId();
+                                Intent intent;
                                 switch (selection){
-                                    case R.id.radioButtonPadaria:
-                                        Toast.makeText(getBaseContext(), "Padaria", Toast.LENGTH_SHORT).show();
+                                    case R.id.radioButtonClinica:
+                                        intent = new Intent(TelaOpcoes.this, CatalogoProdutos.class);
+                                        intent.putExtra("segmento",1);
+                                        startActivity(intent);
+                                        break;
+                                    case R.id.radioButtonHotelaria:
+                                        intent = new Intent(TelaOpcoes.this, CatalogoProdutos.class);
+                                        intent.putExtra("segmento",2);
+                                        startActivity(intent);
                                         break;
                                     case R.id.radioButtonMercadinho:
-                                        Toast.makeText(getBaseContext(), "Mercadinho", Toast.LENGTH_SHORT).show();
-                                        break;
-                                    case R.id.radioButtonClinica:
-                                        Toast.makeText(getBaseContext(), "Clinica", Toast.LENGTH_SHORT).show();
+                                        intent = new Intent(TelaOpcoes.this, CatalogoProdutos.class);
+                                        intent.putExtra("segmento",3);
+                                        startActivity(intent);
                                         break;
                                     case R.id.radioButtonRestaurantes:
-                                        Toast.makeText(getBaseContext(), "Restaurantes", Toast.LENGTH_SHORT).show();
+                                        intent = new Intent(TelaOpcoes.this, CatalogoProdutos.class);
+                                        intent.putExtra("segmento",4);
+                                        startActivity(intent);
                                         break;
                                     default:
                                         Toast.makeText(getBaseContext(), "escolha uma das opções!!", Toast.LENGTH_LONG).show();

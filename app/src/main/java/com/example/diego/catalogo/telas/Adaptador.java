@@ -16,21 +16,21 @@ import java.util.ArrayList;
 public class Adaptador extends BaseAdapter {
 
     private Context context;
-    private int[] itens;
+    private ArrayList<Integer> itens;
 
-    public Adaptador(Context context, int[] itens){
+    public Adaptador(Context context, ArrayList<Integer> itens){
         this.context = context;
         this.itens = itens;
     }
 
     @Override
     public int getCount() {
-        return itens.length;
+        return itens.size();
     }
 
     @Override
     public Object getItem(int position) {
-        return itens[position];
+        return itens.get(position);
     }
 
     @Override
@@ -44,7 +44,7 @@ public class Adaptador extends BaseAdapter {
         ImageView imageView = new ImageView(context);
         imageView.setLayoutParams(new GridView.LayoutParams(200,200));
         imageView.setScaleType(ImageView.ScaleType.FIT_CENTER);
-        imageView.setImageResource(itens[position]);
+        imageView.setImageResource(itens.get(position));
         imageView.setAdjustViewBounds(true);
 
         return imageView;

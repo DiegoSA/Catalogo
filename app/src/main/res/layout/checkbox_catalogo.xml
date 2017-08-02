@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="250dp"
     android:layout_height="250dp"
     android:layout_gravity="center_vertical|center_horizontal"
@@ -8,60 +10,106 @@
     android:gravity="center_vertical"
     android:orientation="vertical">
 
-    <CheckBox
-        android:id="@+id/limpeza"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Limpeza"
-        android:textColor="@android:color/holo_blue_dark" />
-
-    <CheckBox
-        android:id="@+id/descartaveis"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Descartáveis"
-        android:textColor="@android:color/holo_blue_dark" />
-
-    <CheckBox
-        android:id="@+id/papelaria"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Papelaria"
-        android:textColor="@android:color/holo_blue_dark" />
-
-    <CheckBox
-        android:id="@+id/confeitaria"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Confeitaria"
-        android:textColor="@android:color/holo_blue_dark" />
-
-    <CheckBox
-        android:id="@+id/sorveteria"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Sorveteria"
-        android:textColor="@android:color/holo_blue_dark" />
-
     <LinearLayout
-        android:layout_width="252dp"
-        android:layout_height="72dp"
-        android:orientation="horizontal">
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:gravity="center_vertical|center_horizontal"
+        android:orientation="vertical"
+        android:weightSum="1"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="0dp">
 
         <LinearLayout
-            android:layout_width="123dp"
-            android:layout_height="44dp"
-            android:orientation="vertical"></LinearLayout>
-
-        <Button
-            android:id="@+id/buttonOkDep"
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:background="@color/colorPrimaryDark"
-            android:text="@android:string/ok"
-            android:textColor="@android:color/white" />
+            android:orientation="vertical">
+
+            <CheckBox
+                android:id="@+id/limpeza"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="9dp"
+                android:text="Limpeza"
+                android:textColor="@android:color/holo_blue_dark"
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:layout_constraintLeft_creator="1"
+                tools:layout_constraintTop_creator="1" />
+
+            <CheckBox
+                android:id="@+id/descartaveis"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Descartáveis"
+                android:textColor="@android:color/holo_blue_dark"
+                app:layout_constraintLeft_toLeftOf="@+id/limpeza"
+                app:layout_constraintTop_toBottomOf="@+id/limpeza"
+                tools:layout_constraintLeft_creator="1"
+                tools:layout_constraintTop_creator="1" />
+
+            <CheckBox
+                android:id="@+id/papelaria"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Papelaria"
+                android:textColor="@android:color/holo_blue_dark"
+                app:layout_constraintLeft_toLeftOf="@+id/descartaveis"
+                app:layout_constraintTop_toBottomOf="@+id/descartaveis"
+                tools:layout_constraintLeft_creator="1"
+                tools:layout_constraintTop_creator="1" />
+
+            <CheckBox
+                android:id="@+id/confeitaria"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Confeitaria"
+                android:textColor="@android:color/holo_blue_dark"
+                app:layout_constraintLeft_toLeftOf="@+id/papelaria"
+                app:layout_constraintTop_toBottomOf="@+id/papelaria"
+                tools:layout_constraintLeft_creator="1"
+                tools:layout_constraintTop_creator="1" />
+
+            <CheckBox
+                android:id="@+id/sorveteria"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sorveteria"
+                android:textColor="@android:color/holo_blue_dark"
+                app:layout_constraintLeft_toLeftOf="@+id/confeitaria"
+                app:layout_constraintTop_toBottomOf="@+id/confeitaria"
+                tools:layout_constraintLeft_creator="1"
+                tools:layout_constraintTop_creator="1" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:orientation="horizontal"
+            tools:layout_editor_absoluteX="8dp"
+            tools:layout_editor_absoluteY="8dp">
+
+            <LinearLayout
+                android:layout_width="101dp"
+                android:layout_height="40dp"
+                android:orientation="vertical"></LinearLayout>
+
+            <Button
+                android:id="@+id/buttonOkDep"
+                android:layout_width="115dp"
+                android:layout_height="40dp"
+                android:background="@color/colorPrimaryDark"
+                android:text="@android:string/ok"
+                android:textColor="@android:color/white"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintRight_toRightOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/sorveteria"
+                tools:layout_constraintBottom_creator="1"
+                tools:layout_constraintLeft_creator="1"
+                tools:layout_constraintRight_creator="1"
+                tools:layout_constraintTop_creator="1" />
+        </LinearLayout>
     </LinearLayout>
 
 
-</LinearLayout>
+</android.support.constraint.ConstraintLayout>
