@@ -1,10 +1,20 @@
 package com.example.diego.catalogo.telas;
 
 
+import android.app.Dialog;
 import android.database.Cursor;
 import android.os.Bundle;
+import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
+import android.view.LayoutInflater;
+import android.view.View;
+import android.widget.AdapterView;
 import android.widget.GridView;
+import android.widget.ImageView;
+import android.widget.LinearLayout;
+import android.widget.TextView;
+
+import com.example.diego.catalogo.auxiliares.Produtos;
 import com.example.diego.catalogo.banco.DBController;
 import com.example.suporte.catalogo.R;
 import java.util.ArrayList;
@@ -14,6 +24,7 @@ public class CatalogoProdutos extends AppCompatActivity {
 
     private DBController dbController;
     private Cursor cursor;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -54,15 +65,33 @@ public class CatalogoProdutos extends AppCompatActivity {
             }
         }
 
-        ArrayList<Integer> produtos = new ArrayList<Integer>();
+        final ArrayList<Produtos> produtos = new ArrayList<Produtos>();
 
         do{
-            produtos.add(this.getResources().getIdentifier(cursor.getString(cursor.getColumnIndexOrThrow("caminho")), "drawable", this.getPackageName()));
+            Produtos p = new Produtos(this);
+            p.setDescricao(cursor.getString(cursor.getColumnIndex("codigo")) + "-" + cursor.getString(cursor.getColumnIndex("descricao")));
+            p.setCaminho(cursor.getString(cursor.getColumnIndex("caminho")));
+            p.setImagem();
+            produtos.add(p);
         } while (cursor.moveToNext());
 
         GridView gridView = (GridView) findViewById(R.id.gridView);
-        Adaptador adaptador = new Adaptador(CatalogoProdutos.this, produtos);
+        final Adaptador adaptador = new Adaptador(CatalogoProdutos.this, produtos);
         gridView.setAdapter(adaptador);
-
+        gridView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+            @Override
+            public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
+                final Dialog dialog = new Dialog(CatalogoProdutos.this);
+                String nomeProduto = (String) produtos.get(position).getDescricao();
+                dialog.setContentView(R.layout.informacao_produto);
+                final TextView descricao = (TextView) dialog.findViewById(R.id.textViewInfProd);
+                descricao.setText(nomeProduto);
+                final ImageView fotoProduto = (ImageView) dialog.findViewById(R.id.imageViewInfProd);
+                fotoProduto.setImageResource(produtos.get(position).getImagem());
+                fotoProduto.setLayoutParams(new LinearLayout.LayoutParams(400,400));
+                fotoProduto.setAdjustViewBounds(true);
+                dialog.show();
+            }
+        });
     }
 }

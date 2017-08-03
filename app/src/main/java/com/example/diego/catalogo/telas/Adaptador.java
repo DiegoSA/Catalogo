@@ -7,6 +7,8 @@ import android.widget.BaseAdapter;
 import android.widget.GridView;
 import android.widget.ImageView;
 
+import com.example.diego.catalogo.auxiliares.Produtos;
+
 import java.util.ArrayList;
 
 /**
@@ -16,9 +18,9 @@ import java.util.ArrayList;
 public class Adaptador extends BaseAdapter {
 
     private Context context;
-    private ArrayList<Integer> itens;
+    private ArrayList<Produtos> itens;
 
-    public Adaptador(Context context, ArrayList<Integer> itens){
+    public Adaptador(Context context, ArrayList<Produtos> itens){
         this.context = context;
         this.itens = itens;
     }
@@ -44,7 +46,7 @@ public class Adaptador extends BaseAdapter {
         ImageView imageView = new ImageView(context);
         imageView.setLayoutParams(new GridView.LayoutParams(200,200));
         imageView.setScaleType(ImageView.ScaleType.FIT_CENTER);
-        imageView.setImageResource(itens.get(position));
+        imageView.setImageResource(itens.get(position).getImagem());
         imageView.setAdjustViewBounds(true);
 
         return imageView;

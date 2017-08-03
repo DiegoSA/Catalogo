@@ -20,7 +20,7 @@ public class DBController {
 
     public Cursor listarProdutos(){
 
-        String[] campos = {"caminho"};
+        String[] campos = {"codigo", "descricao", "caminho"};
 
         db = banco.getReadableDatabase();
 
@@ -37,7 +37,7 @@ public class DBController {
 
     public Cursor listarProdutos(String where){
 
-        String[] campos = {"caminho"};
+        String[] campos = {"codigo", "descricao", "caminho"};
 
         db = banco.getReadableDatabase();
 
