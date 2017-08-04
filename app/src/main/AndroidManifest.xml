@@ -9,15 +9,18 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name="com.example.diego.catalogo.telas.SplashCatalogo">
+        <activity android:name="com.example.diego.catalogo.telas.SplashCatalogo"
+            android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.example.diego.catalogo.telas.TelaOpcoes">
+        <activity android:name="com.example.diego.catalogo.telas.TelaOpcoes"
+            android:screenOrientation="portrait">
         </activity>
-        <activity android:name="com.example.diego.catalogo.telas.CatalogoProdutos">
+        <activity android:name="com.example.diego.catalogo.telas.CatalogoProdutos"
+            android:screenOrientation="portrait">
         </activity>
     </application>
 
