@@ -3,7 +3,7 @@ package com.example.diego.catalogo.auxiliares;
 import android.content.Context;
 
 /**
- * Created by dblac on 03/08/2017.
+ * Created by Diego Souza on 03/08/2017.
  */
 
 public class Produtos {

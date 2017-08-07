@@ -12,7 +12,7 @@ import com.example.diego.catalogo.auxiliares.Produtos;
 import java.util.ArrayList;
 
 /**
- * Created by dblac on 25/07/2017.
+ * Created by Diego Souza on 25/07/2017.
  */
 
 public class Adaptador extends BaseAdapter {
