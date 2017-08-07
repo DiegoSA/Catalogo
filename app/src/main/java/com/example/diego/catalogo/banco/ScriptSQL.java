@@ -77,7 +77,7 @@ public class ScriptSQL {
                 ContentValues values = ScriptSQL.inserirFotoBanco(codigo, descricao, departamento, caminho, hotelaria, mercadinho, restaurante, clinica); //Aqui usa o método que fará um insert no banco
                 scriptProdutos.add(values);
 
-                linha = lerArq.readLine(); // lê da segunda até a última linha
+                linha = lerArq.readLine(); //lê da segunda até a última linha
             }
         } catch (FileNotFoundException e) {
             e.printStackTrace();

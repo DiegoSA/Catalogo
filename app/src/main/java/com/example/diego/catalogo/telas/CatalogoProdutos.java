@@ -4,9 +4,7 @@ package com.example.diego.catalogo.telas;
 import android.app.Dialog;
 import android.database.Cursor;
 import android.os.Bundle;
-import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
-import android.view.LayoutInflater;
 import android.view.View;
 import android.view.WindowManager;
 import android.widget.AdapterView;
@@ -14,7 +12,6 @@ import android.widget.GridView;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
-
 import com.example.diego.catalogo.auxiliares.Produtos;
 import com.example.diego.catalogo.banco.DBController;
 import com.example.suporte.catalogo.R;
