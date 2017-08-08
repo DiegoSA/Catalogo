@@ -1,5 +1,6 @@
 package com.example.diego.catalogo.telas;
 
+import android.app.Dialog;
 import android.content.Intent;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
@@ -127,9 +128,38 @@ public class TelaOpcoes extends AppCompatActivity {
                                         startActivity(intent);
                                         break;
                                     case R.id.radioButtonMercadinho:
-                                        intent = new Intent(TelaOpcoes.this, CatalogoProdutos.class);
-                                        intent.putExtra("segmento",3);
-                                        startActivity(intent);
+                                        AlertDialog.Builder dialog = new AlertDialog.Builder(TelaOpcoes.this);
+                                        dialog.setView(R.layout.subgrupo_segmento);
+                                        AlertDialog ad;
+                                        ad = dialog.create();
+                                        ad.show();
+
+
+                                        final Button consumo = (Button) ad.findViewById(R.id.buttonConsumo);
+                                        final Button revenda = (Button) ad.findViewById(R.id.buttonrRevenda);
+
+                                        consumo.setOnClickListener(new View.OnClickListener() {
+                                            @Override
+                                            public void onClick(View v) {
+                                                Intent intent = new Intent(TelaOpcoes.this, CatalogoProdutos.class);
+                                                intent.putExtra("subgrupo", 1);
+                                                intent.putExtra("segmento",3);
+                                                startActivity(intent);
+                                            }
+                                        });
+
+                                        revenda.setOnClickListener(new View.OnClickListener() {
+                                            @Override
+                                            public void onClick(View v) {
+                                                Intent intent = new Intent(TelaOpcoes.this, CatalogoProdutos.class);
+                                                intent.putExtra("subgrupo", 2);
+                                                intent.putExtra("segmento",3);
+                                                startActivity(intent);
+                                            }
+                                        });
+
+                                        //dialog.show();
+
                                         break;
                                     case R.id.radioButtonRestaurantes:
                                         intent = new Intent(TelaOpcoes.this, CatalogoProdutos.class);

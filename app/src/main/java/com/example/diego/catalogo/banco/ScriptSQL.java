@@ -30,13 +30,15 @@ public class ScriptSQL {
         stringBuilder.append("hotelaria CHAR CHECK (hotelaria IN ('S', 'N') ), ");
         stringBuilder.append("mercadinho CHAR CHECK (mercadinho IN ('S', 'N') ), ");
         stringBuilder.append("restaurante CHAR CHECK (restaurante IN ('S', 'N') ), ");
-        stringBuilder.append("clinica CHAR CHECK (clinica IN ('S', 'N') ) ");
+        stringBuilder.append("clinica CHAR CHECK (clinica IN ('S', 'N') ), ");
+        stringBuilder.append("consumo CHAR CHECK (consumo IN ('S', 'N') ), ");
+        stringBuilder.append("revenda CHAR CHECK (revenda IN ('S', 'N') ) ");
         stringBuilder.append("); ");
 
         return stringBuilder.toString();
     }
 
-    public static ContentValues inserirFotoBanco(int codigo, String descricao, int departamento, String caminho, String hotelaria, String mercadinho, String restaurante, String clinica){
+    public static ContentValues inserirFotoBanco(int codigo, String descricao, int departamento, String caminho, String hotelaria, String mercadinho, String restaurante, String clinica, String consumo, String revenda){
 
         ContentValues values = new ContentValues();
 
@@ -48,6 +50,8 @@ public class ScriptSQL {
         values.put("mercadinho", mercadinho);
         values.put("restaurante", restaurante);
         values.put("clinica", clinica);
+        values.put("consumo", consumo);
+        values.put("revenda", revenda);
 
         return values;
     }
@@ -73,8 +77,10 @@ public class ScriptSQL {
                 String mercadinho = dados[5];
                 String restaurante = dados[6];
                 String clinica = dados[7];
+                String consumo = dados[8];
+                String revenda = dados[9];
 
-                ContentValues values = ScriptSQL.inserirFotoBanco(codigo, descricao, departamento, caminho, hotelaria, mercadinho, restaurante, clinica); //Aqui usa o método que fará um insert no banco
+                ContentValues values = ScriptSQL.inserirFotoBanco(codigo, descricao, departamento, caminho, hotelaria, mercadinho, restaurante, clinica, consumo, revenda); //Aqui usa o método que fará um insert no banco
                 scriptProdutos.add(values);
 
                 linha = lerArq.readLine(); //lê da segunda até a última linha

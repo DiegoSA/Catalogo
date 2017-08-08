@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:foregroundGravity="center_vertical|center_horizontal|center">
+
+    <LinearLayout
+        android:layout_width="310dp"
+        android:layout_height="75dp"
+        android:orientation="horizontal"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="8dp">
+
+        <Button
+            android:id="@+id/buttonConsumo"
+            android:layout_width="150dp"
+            android:layout_height="75dp"
+            android:background="#1c344e"
+            android:text="CONSUMO"
+            android:textColor="@android:color/white"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <LinearLayout
+            android:layout_width="10dp"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"></LinearLayout>
+
+        <Button
+            android:id="@+id/buttonrRevenda"
+            android:layout_width="150dp"
+            android:layout_height="75dp"
+            android:background="#80090d"
+            android:text="REVENDA"
+            android:textColor="@android:color/white"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>

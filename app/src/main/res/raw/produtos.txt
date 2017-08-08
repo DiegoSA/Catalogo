@@ -1,390 +1,399 @@
-4424;BOBINA SILFER 1 VIA 57X30 APERGAMINHADO;103;silfer_bobina_offset_57x30_1via;N;N;N;N
-5233;BOBINA SILFER 2 VIAS 89X22;103;silfer_bobina_89x22_2_vias;N;N;N;N
-4402;BOBINA SILFER AMARELA 80X40;103;silfer_bobina_termica_amarela_80x40;S;S;S;S
-747;BOBINA SILFER TERMICA AMARELA 57X300;103;silfer_bobina_termica_300m;S;S;S;S
-101;ALCOOL GEL CLEAN 70 ANTISEP PREMISSE 5LT;102;premisse_alcool_gel_clean_70_5l;S;N;S;S
-2836;AROMATIZANTE AMB PREMISSE AIR FRESH 5LT;102;premisse_aromatizante_air_fresh_5l;S;N;S;S
-4379;AROMATIZANTE AMB PREMISSE CONFORTO 300ML;102;premisse_aromatizante_conforto_300ml;S;N;S;S
-152;DISPENSE COPO AGUA PREMISSE BRANCO;102;premisse_dispenser_copo_agua_branco;S;S;S;S
-1387;DISPENSE COPO CAFE PREMISSE AZUL CLEAN;101;premisse_dispenser_copo_cafe;S;S;S;S
-4256;DISPENSE COPO CAFE PREMISSE BRANCO CLEAN;101;premisse_dispenser_copo_cafe_azul;S;S;S;S
-3537;DISPENSE P PROTETOR ASSENTO PREMISSE;101;premisse_dispenser_protetor_assento_sanitario;S;S;S;S
-127;DISPENSER MULTIP PREMISSE AZUL URB GLASS;102;premisse_dispenser_multiplo_urban_glass_azul;S;S;S;S
-125;DISPENSER MULTIPLO PREMISSE URBAN BCO;102;premisse_dispenser_multiplo_urban_branco;S;S;S;S
-126;DISPENSER MULTIPLO PREMISSE VERDE ;102;premisse_dispenser_multiplo_urban_verde;S;S;S;S
-1386;DISPENSER P SAB ESPUM PREMISSE CLEAN BCA;102;premisse_dispenser_sabonete_espuma_clean_branco;S;S;S;S
-142;DISPENSER P SAB PREMISSE COMP GLASS AZUL;102;premisse_dispenser_sabonete_compacta_glass_azul;S;S;S;S
-141;DISPENSER P SAB PREMISSE COMP GLASS VERD;102;premisse_dispenser_sabonete_compacta_glass_verde;S;S;S;S
-2351;DISPENSER P SAB PREMISSE VELOX;102;premisse_dispenser_sabonete_velox_branco;S;S;S;S
-1426;DISPENSER P SAB URBAN  BRANCO;102;premisse_dispenser_sabonete_urban_branco;S;S;S;S
-2348;DISPENSER P SAB URBAN  BRANCO P ABASTECE;102;premisse_dispenser_sabonete_urban_abastecer_branco;S;S;S;S
-1427;DISPENSER P SAB URBAN ESPUMA BRANCO;102;premisse_dispenser_sabonete_urban_espuma_branco;S;S;S;S
-5650;DISPENSER P SAB URBAN GLASS AMARELO;102;premisse_dispenser_sabonete_urban_glass_amarelo;S;S;S;S
-1552;DISPENSER P SAB URBAN GLASS AZUL;102;premisse_dispenser_sabonete_urban_glass_azul;S;S;S;S
-5651;DISPENSER P SAB URBAN GLASS LARANJA;102;premisse_dispenser_sabonete_urban_laranja;S;S;S;S
-5649;DISPENSER P SAB URBAN GLASS LILAS;102;premisse_dispenser_sabonete_urban_lilas;S;S;S;S
-4743;DISPENSER P SAB URBAN GLASS MARROM;102;premisse_dispenser_sabonete_urban_marrom;S;S;S;S
-130;DISPENSER P SAB URBAN GLASS VERDE;102;premisse_dispenser_sabonete_urban_glass_verde;S;S;S;S
-5354;DISPENSER PAP HIG KAI KAI PREMISSE BR ;102;premisse_dispenser_papel_higienico_cai_cai_branco;S;S;S;S
-1215;DISPENSER PAP HIG KAI KAI PREMISSE BRANC;102;premisse_dispenser_papel_higienico_cai_cai_branco_1215;S;S;S;S
-129;DISPENSER PAP HIG PREMISSE ROLAO VELOX;102;premisse_dispenser_papel_higienico_rolao_velox_branco;S;S;S;S
-4744;DISPENSER PAP TOA PREMISSE COMP MARROM;102;premisse_dispenser_papel_toalha_compacto_marrom;S;S;S;S
-5747;DISPENSER PAP TOA PREMISSE COMP VERDE;102;premisse_dispenser_papel_toalha_compacto_verde;S;S;S;S
-1553;DISPENSER PAP TOA PREMISSE COMPACT URBAN;102;premisse_dispenser_papel_toalha_compacto_branco;S;S;S;S
-2349;DISPENSER PAP TOALHA PREMISSE VELOX;102;premisse_dispenser_papel_toalha_velox_branco;S;S;S;S
-150;LIXEIRA PARA COPO PREMISSE 180ML;102;premisse_lixeira_copo_agua_180ml;S;S;S;S
-149;LIXEIRA PARA COPO PREMISSE 50ML;102;premisse_lixeira_copo_cafe_50ml;S;S;S;S
-4085;PORTA GUARD KAI KAI PREMISSE BRANCO;101;premisse_porta_guardanapo_cai_cai_branco;S;N;S;N
-157;PROTETOR DE ASSENTO SANITARIO PREMISSE;102;premisse_protetor_assento_sanitario;S;N;S;S
-4081;SAB LIQ PREMISSE ACAI E CAMOMILA 350ML;102;premisse_sabonete_acai_camomila_350ml;S;S;S;S
-99;SABONETE ANTISEPTICO PREMISSE 800ML;102;premisse_sabonete_antiseptico_gel_800ml;S;S;S;S
-2343;SABONETE ESP PREMISSE MAGIA FLORES 700ML;102;premisse_sabonete_espuma_magia_flores_700ml;S;S;S;S
-2838;SABONETE ESPU PREMISSE ENC NATUREZ 700ML;102;premisse_sabonete_espuma_encantos_natureza_700ml;S;S;S;S
-2345;SABONETE ESPUMA PREMISSE DELICATO 700ML;102;premisse_sabonete_espuma_delicato_700ml;S;S;S;S
-2837;SABONETE ESPUMA PREMISSE ERVA DOCE 700ML;102;premisse_sabonete_espuma_erva_doce_700ml;S;S;S;S
-98;SABONETE ESPUMA PREMISSE SENSITIVE 700ML;102;premisse_sabonete_espuma_sensitive_700ml;S;S;S;S
-2082;SABONETE LIQ PREMISSE ACAI E CAMOMIL 1LT;102;premisse_sabonete_acai_camomila_1l;S;S;S;S
-97;SABONETE LIQ PREMISSE GIRASSOL E CAL 1LT;102;premisse_sabonete_girassol_calendula_1l;S;S;S;S
-96;SABONETE LIQ PREMISSE MORANGO E HIB 1LT;102;premisse_sabonete_morango_hibiscus_1l;S;S;S;S
-2081;SABONETE LIQ PREMISSE PITANGA 1LT;102;premisse_sabonete_pitanga_1l;S;S;S;S
-4377;SABONETE LIQ PREMISSE TANGER CHA VERD 1L;102;premisse_sabonete_tangerina_cha_verde_1l;S;S;S;S
-2091;SABONETE LIQ PREMISSE VERBENA 5LT;102;premisse_sabonete_verbena_5l;S;S;S;S
-4630;ALCOOL 70 AUDAX  1L;102;audax_alcool_70_1l;S;S;S;S
-4631;ALCOOL 96 AUDAX  1L;102;audax_alcool_96_1l;S;S;S;S
-5242;ALCOOL P/ RECHAUD GEL 80 AUDAX 10KG;102;audax_alcool_rechaud_80_10kg;N;N;S;N
-162;AMACIANTE AUDAX CLASSICO 2LT;102;audax_amaciante_classico_2l;S;S;N;N
-5641;AMACIANTE AUDAX CLASSICO 5L;102;audax_amaciante_classico_5l.jpg;S;S;N;N
-2967;BASE SELADORA INNOVATION AUDAX 5LT;102;audax_base_seladora_innovation;S;N;S;N
-2011;CERA LIQUIDA INNOVATION AUDAX 5LT;102;audax_cera_liquida_innovation;S;N;S;N
-140;DESINF CLEOSOL AUDAX LAVANDA 5LT;102;audax_desinfetante_cleosol_lavanda;S;N;S;N
-138;DESINF MAX AUDAX LAVANDA 5LT;102;audax_desinfetante_max_lavanda;S;N;S;N
-2701;DESINFETANTE GOLD FLORAL AUDAX 5LT;102;audax_desinfetante_gold_floral;S;N;S;N
-5643;DET EM PO AUDAX FACILITA 5KG;102;audax_det_po_facilita_5kg;S;S;N;N
-134;DET LIQ CLETEX AUDAX 5LT;102;audax_detergente_cletex;S;N;S;N
-5638;DETERGENTE GOLD CLORADO AUDAX 5L;102;audax_detergente_gold_clorado;S;N;S;N
-2699;DETERGENTE GOLD NEUTRO AUDAX 5LT;102;audax_detergente_gold_neutro;S;N;S;N
-915;HIPOCLORITO DE SODIO AUDAX 5LT;102;audax_hipoclorito_de_sodio;S;N;S;N
-1483;MULTIUSO AUDAX LAVANDA 500ML;102;audax_multiuso_lavanda_500ml;S;S;S;N
-4520;SABONETE ESP AUDAX ALLCLEAN ERVA DOCE 5L;102;audax_sabonete_espuma_all_clean;S;N;S;S
-151;SABONETE LIQ AUDAX ALL CLEAN ANTISEP 5LT;102;audax_sabonete_antisseptico_all_clean;S;N;S;S
-1628;SABONETE LIQ DESENGRAXANTE AUDAX 5LT;102;audax_sabonete_desengraxante_5l;S;N;S;S
-278;PROTETOR DE ALUMINIO FOGAO TERMICA;101;termica_protetor_fogao;N;S;N;S
-2708;COPO BALADA 300ML COPOBRAS MISTO 20X25CX;101;copobras_copo_balada_300ml;N;S;N;S
-12040;BALDE ESPREMEDOR MOPINHO BRALIMPIA AMARE;102;bralimpia_balde_espremedor_mopinho_amarelo;S;N;S;N
-2039;BALDE ESPREMEDOR MOPINHO BRALIMPIA AZUL;102;bralimpia_balde_espremedor_mopinho_azul;S;N;S;N
-2998;BALDE ESPREMEDOR MOPINHO BRALIMPIA VERDE;102;bralimpia_balde_espremedor_mopinho_verde;S;N;S;N
-2031;BALDE ESPREMEDOR MOPINHO BRALIMPIA VERME;102;bralimpia_balde_espremedor_mopinho_vermelho;S;N;S;N
-823;CABO BRALIMPIA 22MMX1.4MT FOSCO;102;bralimpia_cabo_fosco;S;N;S;N
-2025;CARRO FUNC BRALIMPIA AMERICA BOLSA AMA;102;bralimpia_carro_funcional_america;S;N;S;N
-3512;CARRO FUNC BRALIMPIA PAN-AMERICA;102;bralimpia_carro_funcional_pan_america;S;N;S;N
-5614;CESTO BASC BRALIMPIA 14L PRETO;102;bralimpia_cesto_basculhante_14l;S;N;S;N
-1504;CESTO BASC BRALIMPIA 23LT AZUL;102;bralimpia_cesto_basculhante_23l_azul;S;N;S;N
-1506;CESTO BASC BRALIMPIA 23LT VERMELHO;102;bralimpia_cesto_basculhante_23l_vermelho;S;N;S;N
-5361;CESTO GARI 120LT C RODA BRALIMPIA AZUL;102;bralimpia_cesto_gari_com_rodas_120l_azul;S;N;S;N
-3754;CESTO GARI 120LT C RODA BRALIMPIA VERDE;102;bralimpia_cesto_gari_com_rodas_120l_verde;S;N;S;N
-2026;CESTO GARI 120LT C RODA BRALIMPIA VERMEL;102;bralimpia_cesto_gari_com_rodas_120l_vermelho;S;N;S;N
-3226;COMBINADO BRALIMPIA COM CABO 25CM;102;bralimpia_combinado_com_cabo;S;N;S;N
-2990;CONJUNTO BRALIMPIA HIGH TECH 40CM;102;bralimpia_conjunto_high_tech_40cm;S;N;S;N
-2367;ENCERADEIRA BRALIMPIA MOD.440MM 220V;102;bralimpia_enceradeira_440mm;S;N;S;N
-2037;ESPETO COLETOR DE LIXO (STICHER) BRALIMP;102;bralimpia_espeto_coletor_lixo_sticher;S;N;S;N
-5364;EXTENSAO TELESCOPICA 3M 3 ESTA BRALIMPIA;102;bralimpia_extensao_telescopica;S;N;S;N
-3868;EXTENSAO TELESCOPICA 7,5M BRALIMPIA;102;bralimpia_extensao_telescopica;S;N;S;N
-1323;GUIA REMOVIVEL BRALIMPIA 25CM;102;bralimpia_guia_removivel;S;N;S;N
-824;GUIA REMOVIVEL BRALIMPIA 35CM;102;bralimpia_guia_removivel;S;N;S;N
-848;HASTE C CABO BRALIMPIA TIPO EURO AZUL;102;bralimpia_haste_com_cabo_euro_azul;S;N;S;N
-3221;KIT BRALIMPIA PLUS COM BOLSA;102;bralimpia_kit_plus_com_bolsa;S;N;S;N
-5365;KIT PROMOCIONAL 1 AMARELO;102;bralimpia_kit_promocional_1;S;N;S;N
-4948;KIT PROMOCIONAL 2;102;bralimpia_kit_promocional_2;S;N;S;N
-1162;LAMINA DE BORRACHA BRALIMPIA 35CM;102;bralimpia_laminha_borracha;S;N;S;N
-2362;LIXEIRA 50L ALÇA/TAMPA BRALIMPIA AMARELA;102;bralimpia_lixeira_50l_com_alca;S;N;S;N
-2363;LIXEIRA 50L ALÇA/TAMPA BRALIMPIA AZUL;102;bralimpia_lixeira_50l_com_alca;S;N;S;N
-2364;LIXEIRA 50L ALÇA/TAMPA BRALIMPIA VERDE;102;bralimpia_lixeira_50l_com_alca;S;N;S;N
-2365;LIXEIRA 50L ALÇA/TAMPA BRALIMPIA VERMELH;102;bralimpia_lixeira_50l_com_alca;S;N;S;N
-5360;LIXEIRA P COPOS AZUL BRALIMPIA;101;bralimpia_lixeira_para_copos;S;N;S;S
-5668;LIXEIRA S GRAV BRALIMPIA 50L AMAREL FERR;102;bralimpia_lixeira_50l_sem_gravuras_com_ferragens;S;N;S;N
-5669;LIXEIRA S GRAV BRALIMPIA 50L AZUL FERRAG;102;bralimpia_lixeira_50l_sem_gravuras_com_ferragens;S;N;S;N
-833;LT BRALIMPIA EURO AZUL;102;bralimpia_lt_euro_azul;S;N;S;N
-816;MINI KIT BRALIMPIA;102;bralimpia_mini_kit;S;N;S;N
-2366;MODULO P LIXEIRAS 50L C/RODAS BRALIMPIA;102;bralimpia_modulo_lixeira_50l_com_rodas;S;N;S;N
-3867;PA COLETORA BRALIMPIA SELETIVA AMARELA;102;bralimpia_pa_coletora;S;N;S;N
-2666;PA COLETORA BRALIMPIA SELETIVA AZUL;102;bralimpia_pa_coletora;S;N;S;N
-2454;PA COLETORA BRALIMPIA SELETIVA VERDE;102;bralimpia_pa_coletora;S;N;S;N
-2999;PA COLETORA BRALIMPIA SELETIVA VERMELHA;102;bralimpia_pa_coletora;S;N;S;N
-3238;PA COLETORA PLAST PROFISSIONAL BRALIMPIA;102;bralimpia_pa_coletora;S;N;S;N
-5363;PA COLETORA POP BRALIMPIA AZUL CABO ALUM;102;bralimpia_pa_coletora;S;N;S;N
-818;PLACA SINAL BRAL PISO MOLHADO;102;bralimpia_placa_sinal_piso_molhado;S;N;S;N
-828;PULVERIZADOR BRALIMPIA 1L;102;bralimpia_pulverizador_500ml_1l;S;N;S;N
-1260;PULVERIZADOR BRALIMPIA 500ML;102;bralimpia_pulverizador_500ml_1l;S;N;S;N
-849;RASPADOR PESADO BRALIMPIA COM CABO;102;bralimpia_raspador_pesado_com_cabo;S;N;S;N
-1159;RASPADOR PESADO C CABO BRALIMPIA;102;bralimpia_raspador_pesado_com_cabo;S;N;S;N
-3535;REFIL MOP BRALIMPIA CRU LOOP CINTA VERME;102;bralimpia_refil_mop_cru_loop_cinta_vermelho;S;N;S;N
-843;REFIL MOP BRALIMPIA MICROFIBRA BCO;102;bralimpia_refil_mop_microfibra_branco;S;N;S;N
-819;REFIL MOPINHO BRALIMPIA  30CM;102;bralimpia_refil_mopinho_30cm;S;N;S;N
-817;RODO PLASTICO BRALIMPIA AZUL 55CM;102;bralimpia_rodo_plastico_55cm;S;N;S;N
-845;RODO PLASTICO BRALIMPIA AZUL DRY 45CM;102;bralimpia_rodo_plastico_dry_azul;S;N;S;N
-846;RODO PLASTICO BRALIMPIA AZUL DRY 55CM;102;bralimpia_rodo_plastico_dry_azul;S;N;S;N
-844;RODO PLASTICO BRALIMPIA AZUL DRY 65CM;102;bralimpia_rodo_plastico_dry_azul;S;N;S;N
-2989;SABONETEIRA DE RESERVATORIO BRALIMPIA;102;bralimpia_saboneteira_reservatorio;S;N;S;S
-2993;SUPER MOP DOMESTICO BRALIMPIA;102;bralimpia_super_mop_domestico;S;N;S;N
-1907;TELA MICTORIO AZUL BRALIMPIA;102;bralimpia_tela_mictorio_azul_verde;S;N;S;S
-1909;TELA MICTORIO VERMELHA BRALIMPIA;102;bralimpia_tela_mictorio_vermelha_amarela;S;N;S;S
-3947;VASSOURA MACIA 40CM BRALIMPIA;102;bralimpia_vassoura_macia;S;S;S;N
-2038;VASSOURA MINI PARA PA COLETORA BRALIMPIA;102;bralimpia_vassoura_mini_pa_coletora;S;N;S;N
-4464;BALDE 10L SEKITO ZIG ZAG BETTANIN;102;bettanin_balde_10l_sekito;S;N;S;S
-4463;BALDE 14L NOVIÇA ZIG ZAG BETTANIN;102;bettanin_balde_14l_zig_zag;S;N;S;S
-3970;CONJ BALDE TWISTER C PEDAL+MOP BETTANIN;102;bettanin_balde_twister_com_pedal_mop_twister;S;N;S;S
-3960;DESENTUPIDOR GRANDE BETTANIN;102;bettanin_desentupidor_grande;S;S;S;N
-4461;DESENTUPIDOR PIAS E RALOS BETTANIN;102;bettanin_desintupidor_pias_ralos;S;S;S;N
-786;ESCOVA BETTAJEANS BETTANIN;102;bettanin_escova;S;S;S;N
-3981;ESCOVA BRILHUS MULTIUSO BETTANIN;102;bettanin_escova_brilhus_multiuso;S;S;S;N
-3959;ESCOVA NOVICA ADAPT BETTANIN;102;bettanin_escova_com_cabo;S;S;S;N
-3983;ESCOVA SANITARIA SANILUX C SUP. BETTANIN;102;bettanin_escova_sanitaria_suporte;S;S;S;S
-4460;ESCOVA SANITARIA SANILUX C SUP. BETTANIN;102;bettanin_escova_sanitaria_suporte2;S;S;S;S
-762;ESCOVA SANITARIA SANILUX S SUP. BETTANIN;102;bettanin_escova_sanitaria_sem_suporte;S;S;S;S
-3976;ESPONJA BRILHUS BETTANIN;102;bettanin_esponja_brilhus;S;S;S;N
-3977;ESPONJA ESFREBOM PROTEGE UNHAS BETTANIN;102;bettanin_esponja_esfrebom_protege_unhas;S;N;S;N
-3978;LUVA ESFREBOM FASHION BETTANIN;102;bettanin_luva_fashion;S;N;S;N
-3961;MOP ABRASIVO ESFREBOM BETTANIN;102;bettanin_mop_abrasivo;S;N;S;N
-3965;MOP ESFREGAO ALGODAO ZIG ZAG BETTANIN;102;bettanin_mop_esfregao_algodao;S;N;S;N
-3966;MOP ESFREGAO LIMPATUDO ZIG ZAG BETTANIN;102;bettanin_mop_esfregao_limpatudo;S;N;S;N
-767;MOP LUSTRADOR ALGODAO ZIG ZAG BETTANIN;102;bettanin_mop_lustrador_algodao;S;N;S;N
-1178;MOP LUSTRADOR LA BETTANIN;102;bettanin_mop_lustrador_la;S;N;S;N
-3974;MOP NOVICA SPRAY BETTANIN;102;bettanin_mop_spray;S;N;S;N
-3975;MOP NOVICA TORCAO BETTANIN;102;bettanin_mop_torcao;S;N;S;N
-765;MOP ZIG ZAG SEKITO BETTANIN;102;bettanin_mop_zig_zag_sekito;S;N;S;N
-3958;PA COLETORA NOVIÇA BETTANIN;102;bettanin_pa_coletora;S;N;S;N
-763;PA DE ACO NOVICA BETTANIN;102;bettanin_pa;S;N;S;N
-1179;PA DE CABO LONGO NOVIÇA BETTANIN;102;bettanin_pa_cabo_longo;S;N;S;N
-3964;REFIL MOP ABRASIVO ESFREBOM BETTANIN;102;bettanin_refil_abrasivo;S;N;S;N
-3973;REFIL MOP BALDE TWISTER C/PEDAL BETTANIN;102;bettanin_refil_mop_twister;S;N;S;N
-3967;REFIL MOP ESFREGAO ALGODAO ZIG BETTANIN;102;bettanin_refil_algodao;S;N;S;N
-3968;REFIL MOP ESFREGAO LIMPATUDO BETTANIN;102;bettanin_refil_limpatudo;S;N;S;N
-3963;REFIL MOP LUSTRADOR ALGODAO ZIG BETTANIN;102;bettanin_refil_lustrador_algodao;S;N;S;N
-3962;REFIL MOP LUSTRADOR LA BETTANIN;102;bettanin_refil_lustrador_la;S;N;S;N
-3969;REFIL MOP ZIG ZAG SEKITO BETTANIN;102;bettanin_refil_zig_zag_sekito;S;N;S;N
-3957;RODO VAI E VEM M BETTANIN;102;bettanin_rodo_vai_vem_m;S;S;S;S
-785;RODO VAI E VEM P BETTANIN;102;bettanin_rodo_vai_vem_p;S;S;S;S
-3979;VASSOURA BRILHUS BETTANIN;102;bettanin_vassoura_brilhus;S;S;S;S
-3954;VASSOURA ORIGINAL BETTANIN;102;bettanin_vassoura_original;S;S;S;S
-783;VASSOURA PISO DELICADO BETTANIN;102;bettanin_vassoura_piso_delicado;S;S;S;S
-784;VASSOURA VARRY 1000 BETTANIN;102;bettanin_vassoura_varry;S;S;S;S
-3982;VASSOURITA BRILHUS BETTANIN;102;bettanin_vassourita_brilhus;S;S;S;S
-5348;AROMATIZANTE MIRAX AIR RENKO AMADEIR 5L;102;renko_aromatizante_mirax_amadeirado;S;N;N;S
-5349;AROMATIZANTE MIRAX AIR RENKO FLORES 5L;102;renko_aromatizante_mirax_flores;S;N;N;S
-5578;CERA ACRILICA MAXIMA BRILHO 5L;102;renko_cera_acrilica_maxima_brilho;S;S;S;S
-4639;DESENGRAXANTE ECO ORANGE RENKO 1L;102;renko_desengraxante_eco_orange_1l;N;N;S;N
-3051;DESINF MIRAX ALTA DILU FLORAL TALCO 5LT;102;renko_desinfetante_mirax_alta_diluicao_floral_talco;S;S;S;N
-650;DESINF MIRAX RENKO FLORAL BOUQUET 5LT;102;renko_desinfetante_mirax_floral_bouquet;S;S;N;N
-651;DESINF MIRAX RENKO LAVANDA CAMPESTRE 5LT;102;renko_desinfetante_mirax_lavanda_campestre;S;S;N;N
-652;DESINF MIRAX RENKO PINHO AMAZONIA 5LT;102;renko_desinfetante_mirax_pinho_amazonian;S;S;N;N
-653;DESINF MIRAX-A RENKO SEM PERFUME 5LT;102;renko_desinfetante_mirax_a_sem_perfume_5l;N;N;S;S
-4640;DESINF USO HOSPITALAR MIRAX RENKO 5L;102;renko_desinfetante_mirax_uso_hospitalar;N;N;N;S
-3049;DET DESENGRAX KLYO FLASH RENKO CONC 5L;102;renko_detergente_concentrado_desengraxante_kylo_flash_5l;S;N;N;N
-5707;DET DESENGRAXANTE KLYO RENKO 5L;102;renko_detergente_desengraxante_klyo_pine_5l;S;N;N;N
-3052;DET DESINF CHEF RENKO MULTIBAC 5L SANITI;102;renko_desinfetante_chef_multibac_5l;S;N;N;S
-4641;DET DESINF CLORADO CHEF CLOR S  RENKO 5L;102;renko_desinfetante_clorado_chef_clor_s_5l;S;N;N;N
-659;DET LIQ CONC BRILLIA RENKO NEUTRO 5LT;102;renko_detergente_concentrado_brillia_neutro_5l;S;N;N;N
-658;DET LIQ CONC RENKO CHEF AMONIACAL 5LT;102;renko_detergente_concentrado_chef_amoniacal_5l;S;N;N;N
-2696;LAVA LOUCAS DET DERTEX PROF RENKO 5L;102;renko_lava_loucas_detergente_dertex_5l;S;N;S;N
-2697;LAVA LOUCAS SECANTE SECCA PROF RENKO 5L;102;renko_lava_loucas_secante_secca_5l;S;N;S;N
-4502;LIMP CHEF MULTIUSO LIMA LIMAO 5LT;102;renko_limpador_multiuso_chef_lima_limao_5l;S;N;N;N
-4627;LIMP DESINCRUST KLYO RENKO DESINF 5LT;102;renko_limpador_desincrustante_klyo_desinf_5l;S;N;N;N
-654;LIMP GERAL KLYO RENKO ACAI C GUARANA 5LT;102;renko_limpador_geral_klyo_acai_c_guarana;S;N;N;N
-655;LIMP GERAL KLYO RENKO CRISTAL 5LT;102;renko_limpador_geral_klyo_cristal_5l;S;N;N;N
-656;LIMP GERAL KLYO RENKO ROSE 5LT;102;renko_limpador_geral_klyo_rose_5l;S;N;N;N
-4628;LIMP GERAL MIRAX MAGIC FLOT 5LT;102;renko_limpador_geral_magic_flot_5l;S;N;N;N
-4638;LIMP KLYO POS OBRA DESINCRUST RENKO 5L;102;renko_limpador_desincrustante_pos_obra_5l;S;N;N;N
-2393;LIMP PEDRAS KLYO RENKO 5LT;102;reko_limpa_pedras_klyo_5l;S;N;N;N
-4637;LIMP PISO PORCELANATOS KLYO RENKO 5L;102;renko_limpador_piso_porcelanatos_klyo_floor_5l;S;N;N;N
-4646;LIMPA INOX KLYO RENKO 5L;102;renko_limpa_inox_klyo_5l;S;N;S;N
-1733;LIMPA VIDRO KLYO RENKO 5LT;102;renko_limpa_vidros_klyo_5l;S;S;S;N
-5347;LIMPADOR GERAL KLYO OXY 5L;102;renko_limpador_geral_klyo_oxy_5l;S;N;N;N
-5350;REMOVEDOR CERA ATIWAX RENKO 5L;102;renko_removedor_cera_atiwax_5l;S;N;S;S
-5706;RENOVA INOX KLYO RENKO 5L;102;renko_renova_inox_klyo5l;S;N;S;N
-5464;SABONETE LIQ ANTISSEP SUAVITE RENKO 5L;102;renko_sabonete_antisseptico_suavite_5l;S;S;S;S
-4643;SABONETE LIQ SOFT DOCE FRESCOR RENKO 5L;102;renko_sabonete_soft_doce_frescor_5l;S;S;S;S
-4642;SABONETE LIQ SOFT FLORES CAMPO RENKO 5L;102;renko_sabonete_soft_flores_campo_5l;S;S;S;S
-4645;SABONETE LIQ SOFT PESSEGO RENKO 5L;102;renko_sabonete_soft_pessego_5l;S;S;S;S
-1029;FILTRO PAPEL CAFE MALU N102;101;malu_filtro_cafe_102;S;S;S;N
-1028;FILTRO PAPEL CAFE MALU N103;101;malu_filtro_cafe_103;S;S;S;N
-2309;GUARDANAPO MALU 14X14;101;malu_guardanapo_14x14;S;S;S;N
-2310;GUARDANAPO MALU 21X23;101;malu_guardanapo_21x23;S;S;S;N
-2311;GUARDANAPO MALU 32X33;101;malu_guardanapo_32x33;S;S;S;N
-1671;CATCHUP AUREA SACHE;106;aurea_ketchup;N;S;N;N
-2637;DOCE DE LEITE AUREA 4,8 KG;106;aurea_doce_de_leite;N;N;N;N
-2466;DOCE DE LEITE C/ CHOCOLATE AUREA 4,8KG;106;aurea_doce_de_leite_com_chocolate;N;N;N;N
-1672;MAIONESE AUREA SACHE;106;aurea_maionese;N;S;N;N
-1673;MOSTARDA AUREA SACHE;106;aurea_mostarda;N;S;N;N
-1994;FORMULARIO CONT MAXPRINT 1 VIA C/2500;103;maxprint_formulario_continuo;N;N;N;N
-1241;FORMULARIO RAZAO MAXPRINT 1 VIA C/6000;103;maxprint_formulario_razao;N;N;N;N
-4952;ALFINETE PARA MAPA 6MM BOLA BRW;103;brw_alfinete_6mm;N;N;N;N
-4951;ALFINETE PARA MAPA 8MM BOLA BRW;103;brw_alfinete_8mm;N;N;N;N
-4953;APAGADOR P/ QUADRO BRANCO BRW MAGNE AZUL;103;brw_apagador_quadro_branco;N;N;N;N
-2212;APLICADOR MANUAL PARA FITA AZUL BRW;103;brw_aplicador_manual_fita_azul;N;N;N;N
-2213;APLICADOR MANUAL PARA FITA VERMELHO BRW;103;brw_aplicador_manual_fita_vermelho;N;N;N;N
-2104;APONTADOR ESC REDONDO  BRW;103;brw_apontador_escolar_redondo;N;N;N;N
-2744;BASTAO COLA QUENTE FINA BRW;103;brw_bastao_cola_quente_fina;N;N;N;N
-2745;BASTAO COLA QUENTE GROSSA BRW;103;brw_bastao_cola_quente_grossa;N;N;N;N
-2114;BINDER CLIP BRW 25MM;103;brw_binder_clip;N;N;N;N
-2111;BINDER CLIP BRW 32MM;103;brw_binder_clip;N;N;N;N
-4954;BLOCO DE ANOT 38X51MM AMARELO 4UND BRW;103;brw_bloco_anotacao_38x51_amarelo;N;N;N;N
-4956;BLOCO DE ANOT 38X51MM LARANJA 4UN BRW;103;brw_bloco_anotacao_38x51_laranja;N;N;N;N
-4964;BLOCO DE ANOT 76X76MM CUBO 400 FLS BRW;103;brw_bloco_anotacao_76x76_colorido;N;N;N;N
-4955;BLOCO DE ANOTACOES 38X51MM COLORIDO BRW;103;brw_bloco_anotacao_38x51_colorido;N;N;N;N
-4957;BLOCO DE ANOTACOES 38X51MM ROSA 4UN BRW;103;brw_bloco_anotacao_38x51_rosa;N;N;N;N
-4958;BLOCO DE ANOTACOES 38X51MM VERDE 4UN BRW;103;brw_bloco_anotacao_38x51_verde;N;N;N;N
-4959;BLOCO DE ANOTACOES 76X102MM AMARELO BRW;103;brw_bloco_anotacao_76x102_amarelo;N;N;N;N
-4960;BLOCO DE ANOTACOES 76X102MM LARANJA BRW;103;brw_bloco_anotacao_76x102_laranja;N;N;N;N
-4961;BLOCO DE ANOTACOES 76X102MM ROSA BRW;103;brw_bloco_anotacao_76x102_rosa;N;N;N;N
-4962;BLOCO DE ANOTACOES 76X102MM VERDE BRW;103;brw_bloco_anotacao_76x102_verde;N;N;N;N
-4963;BLOCO DE ANOTACOES 76X76MM AMARELO BRW;103;brw_bloco_anotacao_76x76_amarelo;N;N;N;N
-4965;BLOCO DE ANOTACOES 76X76MM LARANJA BRW;103;brw_bloco_anotacao_76x76_laranja;N;N;N;N
-4966;BLOCO DE ANOTACOES 76X76MM ROSA BRW;103;brw_bloco_anotacao_76x76_rosa;N;N;N;N
-4967;BLOCO DE ANOTACOES 76X76MM VERDE BRW;103;brw_bloco_anotacao_76x76_verde;N;N;N;N
-2109;BORRACHA BRANCA BRW COM CAPA PEQUENA;103;brw_borracha_com_capa;N;N;N;N
-4347;CALCULADORA DE BOLSO BRW 8 DIGITOS;103;brw_calculadora_bolso_8_digitos;N;N;N;N
-2215;CALCULADORA GRANDE BRW 12 DIGITOS;103;brw_calculadora_grande_12_digitos;N;N;N;N
-2214;CALCULADORA MEDIA BRW 12 DIGITOS;103;brw_calculadora_media_12_digitos;N;N;N;N
-3470;CALCULADORA PEQUENA BRW 8 DIGITOS;103;brw_calculadora_pequena_8_digitos;N;N;N;N
-2115;CLIPS PARA PAPEIS BRW N0;103;brw_clips_para_papeis;N;N;N;N
-508;CLIPS PARA PAPEIS BRW N2 ;103;brw_clips_para_papeis;N;N;N;N
-509;CLIPS PARA PAPEIS BRW N3;103;brw_clips_para_papeis;N;N;N;N
-1755;CLIPS PARA PAPEIS BRW N4;103;brw_clips_para_papeis;N;N;N;N
-510;CLIPS PARA PAPEIS BRW N6;103;brw_clips_para_papeis;N;N;N;N
-1208;CLIPS PARA PAPEIS BRW N8;103;brw_clips_para_papeis;N;N;N;N
-2110;COLA BASTAO BRW 21GR;103;brw_cola_bastao_21g;N;N;N;N
-4968;COLA BASTAO BRW 9GR;103;brw_cola_bastao_9g;N;N;N;N
-5540;COLA BRANCA BRW 1KG;103;brw_cola_branca_1kg;N;N;N;N
-5538;COLA BRANCA BRW 40G;103;brw_cola_branca_40g;N;N;N;N
-5539;COLA BRANCA BRW 500G;103;brw_cola_branca_500g;N;N;N;N
-5659;COLA BRANCA BRW 90G;103;brw_cola_branca_90g;N;N;N;N
-5615;COLA COLORIDA BRW 21G C/ 4UN;103;brw_cola_colorida;N;N;N;N
-5616;COLA COM GLITER BRW 25G C/ 6UN;103;brw_cola_com_gliter;N;N;N;N
-4969;COLA EM FITA BRW;103;brw_cola_em_fita;N;N;N;N
-5179;COLA ISOPOR LIQUIDA 80G BRW;103;brw_cola_isopor;N;N;N;N
-5178;COLA SILICONE LIQUIDA 50G BRW;103;brw_cola_silicone;N;N;N;N
-5658;CORRETIVO LIQ BRW 18ML;103;brw_corretivo_liquido;N;N;N;N
-3760;ESTILETE BRW 18MM;103;brw_estilete_18mm;N;N;N;N
-3759;ESTILETE BRW 9MM;103;brw_estilete_9mm;N;N;N;N
-2216;ESTILETE PROF.18MM C/ TRAVA DE SEGUR BRW;103;brw_estilete_18mm_com_trava_seguranca;N;N;N;N
-4922;ESTILETE USO PROF.18MM BRW;103;brw_estilete_18mm_uso_profissional;N;N;N;N
-2217;EXTRATOR DE GRAMPO BRW;103;brw_extratro_grampo;N;N;N;N
-3468;FITA ADES BRW TRANSP 45MMX45M;103;brw_fita_adesiva_45x45;N;N;N;N
-4348;FITA CORRETIVA BRW 5MMX6M;103;brw_fita_corretiva;N;N;N;N
-4920;GRAMPEADOR BRW 25FLS 20CM;103;brw_grampeador_25f_20cm;N;N;N;N
-2103;GRAMPEADOR BRW MET 100 FOLHAS;103;brw_grampeador_metal_100f;N;N;N;N
-4970;GRAMPEADOR BRW MET 240 FOLHAS;103;brw_grampeador_metal_240f;N;N;N;N
-5541;GRAMPEADOR BRW MET MEDIO 25 FOLHAS;103;brw_grampeador_metal_medio_25f;N;N;N;N
-2102;GRAMPEADOR BRW MET PEQUENO;103;brw_grampeador_metal_pequeno;N;N;N;N
-2218;GRAMPEADOR GRANDE BRW;103;brw_grampeador_grande;N;N;N;N
-2219;GRAMPEADOR MEDIO BRW;103;brw_grampeador_medio;N;N;N;N
-4972;GRAMPO GALVANIZADO BRW 23/10;101;brw_grampo_galvanizado_23_10;N;N;N;N
-521;GRAMPO TRILHO METAL C/50 BRW;103;brw_grampo_trilho_metal;N;N;N;N
-1371;GRAMPOS BRW COBREADO 26/6;103;brw_grampo_cobreado_26_6;N;N;N;N
-1213;GRAMPOS BRW GALVANIZADO 26/6;103;brw_grampo_galvanizado_26_6;N;N;N;N
-2220;LAMINA PARA ESTILETE 18MM BRW;103;brw_lamina_para_estilete_18mm;N;N;N;N
-2221;LAMINA PARA ESTILETE 9MM BRW;103;brw_lamina_para_estilete_9mm;N;N;N;N
-2100;LAPIS DE COR BRW;103;brw_lapis_de_cor;N;N;N;N
-5721;LAPIS DE COR ECO SEXTAVADO BRW;103;brw_lapis_de_cor_eco_sextavado;N;N;N;N
-5181;LAPIS PRETO HB REDONDO BRW;103;brw_lapis_preto_hb_redondo;N;N;N;N
-5543;LAPIS VERDE C BORRACHA BRW;103;brw_lapis_verde_com_borracha;N;N;N;N
-5542;LAPIS VERDE HB RECICLADO BRW;103;brw_lapis_verde_hb_reciclado;N;N;N;N
-5182;LAPIS VERDE HB SEXTAVADO BRW;103;brw_lapis_verde_hb_sextavado;N;N;N;N
-2105;MARCA TEXTO BRW AMARELO;103;brw_marca_texto_amarelo;N;N;N;N
-2106;MARCA TEXTO BRW AZUL;103;brw_marca_texto_azul;N;N;N;N
-3663;MARCA TEXTO BRW LARANJA;103;brw_marca_texto_laranja;N;N;N;N
-3662;MARCA TEXTO BRW ROSA;103;brw_marca_texto_rosa;N;N;N;N
-2107;MARCA TEXTO BRW VERDE;103;brw_marca_texto_verde;N;N;N;N
-3469;MARCADOR CD DVD BRW PRETO;103;brw_marcador_cd_dvd_preto;N;N;N;N
-5177;MOLHA DEDO 12G BRW ;103;brw_molha_dedo_12g;N;N;N;N
-5175;PASTA AZ A4 LOMBO LARGO BRW CINZA;103;brw_pasta_az_cinza;N;N;N;N
-1887;PERCEVEJO LATONADO BRW N2 ;103;brw_percevejo_latonado_n2;N;N;N;N
-3942;PERFURADOR GRANDE BRW;103;brw_perfurador_grande;N;N;N;N
-3941;PERFURADOR MEDIO BRW;103;brw_perfurador_medio;N;N;N;N
-3761;PISTOLA COLA QUENTE BRW GRANDE;103;brw_pistola_cola_quente_grande;N;N;N;N
-3762;PISTOLA COLA QUENTE BRW PEQUENA;103;brw_pistola_cola_quente_pequena;N;N;N;N
-3612;SACO COM 11 FUROS A4 BRW;103;brw_saco_com_11_furos_a4;N;N;N;N
-5172;SUPORTE  FITA ADESIVA GRANDE BRW AZUL;103;brw_suporte_fita_adesiva_grande;N;N;N;N
-5173;SUPORTE  FITA ADESIVA MEDIO BRW AZUL;103;brw_suporte_fita_adesiva_medio;N;N;N;N
-5176;TESOURA 17CM BLISTER BRW;103;brw_tesoura_17cm_blister;N;N;N;N
-5353;TESOURA 21CM BLISTER BRW;103;brw_tesoura_21cm_blister;N;N;N;N
-2222;TESOURA ESCOLAR 13CM BRW;103;brw_tesoura_escolar_13cm;N;N;N;N
-3534;PALITO DENTE MADEI BILLA EMBALADO 2000UN;101;billa_palito_dente_2000;S;S;S;N
-3627;PANO MULTIUSO BILLA AZUL 600UN;102;billa_pano_multiuso_azul;S;S;S;S
-2619;PANO MULTIUSO BILLA LARANJA 600UN;102;billa_pano_multiuso_laranja;S;S;S;S
-5766;CEREAL BALL M.LEITE BRANCO TOP 500 GR;106;harald_ceral_ball_micro_ao_leite_500g;N;S;S;N
-2925;CHOCOLATE EM PÓ 33% HARALD 1,05KG;106;harald_chocolate_em_po_33p_1050g;N;S;S;N
-2926;COB FRACIONADA AO LEITE HARALD 1,05KG;106;harald_cobertura_fracionada_ao_leite_1050g;N;S;S;N
-2933;COB FRACIONADA BRNCA HARALD 1,05KG;106;harald_cobertura_fracionada_branca_1050g;N;S;S;N
-2921;COB RASPAR COBRIR AO LEITE HARALD 5KG;106;harald_cobertura_raspar_cobrir_ao_leite_5kg;N;S;S;N
-2922;COB RASPAR COBRIR BRANCA HARALD 5KG;106;harald_cobertura_raspar_cobrir_branca_5kg;N;S;S;N
-2920;COB RASPAR COBRIR MEIO AMARGA HARALD 5KG;106;harald_cobertura_raspar_cobrir_meio_amarga_5kg;N;S;S;N
-4108;COB TOP AO LEITE HARALD 1,05KG;106;harald_cobertura_top_ao_leite_1050g;N;S;S;N
-4106;COB TOP BRANCA HARALD 1,05KG;106;harald_cobertura_top_branca_1050g;N;S;S;N
-4107;COB TOP MEIO AMARGO HARALD 1,05KG;106;harald_cobertura_top_meio_amarga_1050g;N;S;S;N
-2930;FLOCOS DE ARROZ HARALD 500G;106;harald_flocos_de_arroz_500g;N;S;S;N
-5757;GANACHE BRANCO MELKEN HARALD 4KG;106;harald_ganache_branco_melken_4kg;N;S;S;N
-5769;GRANULADO CHOC ESC CONF HARALD 400G;106;harald_granulado_chocolate_escuro_confeiteiro_400g;N;S;S;N
-2931;GRANULADO CROC ESCURO  HARALD 1,05KG;106;harald_granulado_crocante_escuro_1050g;N;S;S;N
-4433;GRANULADO MACIO ESC CONF HARALD 1,05KG;100;harald_granulado_macio_escuro_confeiteiro_1050g;N;S;S;N
-4550;INOVARE BARRA AO LEITE MELKEN 1,05KG;106;harald_inovare_barra_ao_leite_1050g;N;S;S;N
-4548;INOVARE BARRA CARAMELAT MELKEN 1,05KG;106;harald_inovare_barra_caramelo_1050g;N;S;S;N
-4549;INOVARE BARRA INTENSO MELKEN 1,05KG;106;harald_inovare_barra_intenso_1050g;N;S;S;N
-2917;MELKEN BEIJINHO COCO HARALD 1,01KG;106;harald_melken_beijinho_coco_1kg;N;S;S;N
-5113;MELKEN BEIJINHO COCO HARALD 500G;106;harald_melken_beijinho_coco_500g;N;S;S;N
-2916;MELKEN BRIGADEIRO HARALD 1,01KG;106;harald_melken_brigadeiro_1kg;N;S;S;N
-5114;MELKEN BRIGADEIRO HARALD 500G;106;harald_melken_brigadeiro_500g;N;S;S;N
-5760;MELKEN CACAU EM PO 100% HARALD 500G;106;harald_melken_cacau_em_po_100_500g;N;S;S;N
-5628;MELKEN CHOCOLATE BRANCO HARALD 1,05KG;106;harald_melken_chocolate_branco_1050g;N;S;S;N
-5765;MELKEN MEIO AMARGO HARALD 1,05KG;106;harald_melken_meio_amargo_1050g;N;S;S;N
-5756;RECHEIO COBERTURA CHOC MELKEN HARALD 4KG;106;harald_recheio_cobertura_chocolate_melken_4kg;N;S;S;N
-5768;ROLL CHOC DUO UNIQUE 250G;106;harald_roll_choc_duo_unique_500g;N;S;S;N
-5777;CAIXA ARQUIVO COMERCIAL POLYCART AZUL;103;polycart_caixa_arquivo_morto;N;N;N;N
-5778;CAIXA ARQUIVO COMERCIAL POLYCART CINZA;103;polycart_caixa_arquivo_morto;N;N;N;N
-5775;CAIXA ARQUIVO COMERCIAL POLYCART PRETO;103;polycart_caixa_arquivo_morto;N;N;N;N
-5774;CAIXA ARQUIVO COMERCIAL POLYCART VERDE;103;polycart_caixa_arquivo_morto;N;N;N;N
-5776;CAIXA ARQUIVO COMERCIAL POLYCART VERME;103;polycart_caixa_arquivo_morto;N;N;N;N
-3338;MALETA ARQUIVO PRETA POLYCART C10 PASTAS;103;polycart_maleta_arquivo_com_10_pastas;N;N;N;N
-3395;CAIXA CORRESPOND DUPLA WALEU CRISTAL;103;waleu_caixa_correspondencia_dupla_cristal;N;N;N;N
-3396;CAIXA CORRESPOND DUPLA WALEU FUME;103;waleu_caixa_correspondencia_dupla_fume;N;N;N;N
-4350;CAIXA CORRESPOND SIMPLES WALEU CRISTAL;103;waleu_caixa_correspondencia_simples_cristal;N;N;N;N
-3397;CAIXA CORRESPOND TRIPLA WALEU CRISTAL;103;waleu_caixa_correspondencia_tripla_cristal;N;N;N;N
-3398;CAIXA CORRESPOND TRIPLA WALEU FUME;103;waleu_caixa_correspondencia_tripla_fume;N;N;N;N
-3417;EXPOSITOR OFFICE BRANCO WALEU;103;waleu_expositor_office;N;N;N;N
-5710;GAVETEIRO C/ 4 GAVETAS WALEU PRETO;103;waleu_gaveteiro_com_4_gavetas_preto;N;N;N;N
-4997;ORGANIZADOR DE CHAVES C/50 WALEU;103;waleu_chaveiro;N;N;N;N
-3414;ORGANIZADOR MOEDAS WALEU CRISTAL;103;waleu_organizador_moedas;N;N;N;N
-3404;PORTA CANETAS/CLIPS/LEMBR WALEU CRISTAL;103;waleu_porta_caneta_clips_lembrete_cristal;N;N;N;N
-3405;PORTA CANETAS/CLIPS/LEMBR WALEU FUME;103;waleu_porta_caneta_clips_lembrete_fume;N;N;N;N
-5713;PRANCHETA SUPER WALEU CRISTAL;103;waleu_prancheta_super_cristal;N;N;N;N
-3528;PORTA CANUDOS METAL AURIMAR BRANCO;101;aurimar_porta_canudo_metal_branco;N;N;S;N
-3722;COBERTURA CHOCOLATE DU PORTO 1,3KG;100;du_porto_cobertura_1300g;N;N;N;N
-3728;COBERTURA CHOCOLATE DU PORTO 300G;100;du_porto_cobertura_chocolate_300g;N;N;N;N
-3737;PO PARA GELADOS LEITE COND DU PORTO 1KG;100;du_porto_po_para_gelados_leite_condensado_1kg;N;N;N;N
-4880;PASTA 12 DIV A4 PLASCONY AZUL;103;plascony_pasta_12div_duplicata;N;N;N;N
-3806;PASTA 31 DIV CHEQUE PLASCONY AZUL;103;plascony_pasta_31div_cheque;N;N;N;N
-3809;PASTA 31 DIV DUPLICATA PLASCONY AZUL;103;plascony_pasta_31div_duplicata;N;N;N;N
-3816;PASTA 31 DIV OFICIO PLASCONY AZUL;103;plascony_pasta_31div_bicolor;N;N;N;N
-3780;PASTA ABA 30 PLASCONY AMARELA;103;plascony_pasta_aba_30;N;N;N;N
-3839;PASTA CATALOGO A4 PLASCONY AZUL;103;plascony_pasta_catalogo;N;N;N;N
-3797;PASTA TRILHO OF PLASCONY AMARELA;103;plascony_pasta_trilho;N;N;N;N
-4163;ELASTICO PREMIER 1000GR;103;premier_elastico;N;N;N;N
-4162;ELASTICO PREMIER 500GR ;103;premier_elastico;N;N;N;N
-4161;ELASTICO PREMIER 50GR ;103;premier_elastico;N;N;N;N
-4221;KIT POTE CRISTALPPOTE 250ML;101;cristalppote_kit_pote_com_tampa_250ml;N;S;N;S
-4298;MASSA ELASTICA 500G ARCOLOR;106;arcollor_massa_elastica_500g;S;N;N;N
-4300;PASTA AMERICANA AVELA 800G ARCOLOR;106;arcollor_pasta_americana_800g;S;N;N;N
-5421;BOTA LIGHT BOOT ANTIDERRAP BRANC BB85 36;102;works_bota_bb85_branca;S;N;S;N
-5292;SAPATILHA EVA WORKS BR BB50 34;102;works_sapatilha_bb50_branca;S;N;S;N
-5293;SAPATILHA EVA WORKS PR BB50 34;102;works_sapatilha_bb50_preta;S;N;S;N
-5280;TENIS EVA WORKS ANTIDERRAP BR BB60 33/34;102;works_tenis_bb60_branco;S;N;S;N
-5304;TENIS EVA WORKS ANTIDERRAP BRANC BB65 34;102;works_tenis_bb65_branco;S;N;S;N
-5281;TENIS EVA WORKS ANTIDERRAP PR BB60 33/34;102;works_tenis_bb60_preto;S;N;S;N
-5305;TENIS EVA WORKS ANTIDERRAP PRETO BB65 34;102;works_tenis_bb65_preto;S;N;S;N
-5680;TENIS EVA WORKS ANTIDERRAP PRETO BB80 34;102;works_tenis_bb80_preto;S;N;S;N
-1276;CANETA COMPACTOR 07 AZUL;103;compactor_caneta_07;N;N;N;N
-5602;LIMPADOR P QUADRO BR BRILLANT COMPACTOR;103;compactor_limpador_quadro_branco_brillant;N;N;N;N
-5624;MARCADOR PERM COMPACTOR AZUL ABASTECER;103;compactor_marcador_permanente_para_abastecer;N;N;N;N
-5594;MARCADOR QUADRO BRANCO COMPACTOR AZUL;103;compactor_marcador_quadro_branco;N;N;N;N
-5592;TINTA P MARCADOR PERM COMPACTOR AZUL;103;compactor_tinta_marcador_permanente;N;N;N;N
-5625;PASTAMIX 800G;106;mix_pastamix_800g;S;N;N;N
+4424;BOBINA SILFER 1 VIA 57X30 APERGAMINHADO;103;silfer_bobina_offset_57x30_1via;N;N;N;N;S;N
+5233;BOBINA SILFER 2 VIAS 89X22;103;silfer_bobina_89x22_2_vias;N;N;N;N;N;N
+4402;BOBINA SILFER AMARELA 80X40;103;silfer_bobina_termica_amarela_80x40;S;S;S;S;S;N
+747;BOBINA SILFER TERMICA AMARELA 57X300;103;silfer_bobina_termica_300m;S;S;S;S;S;N
+101;ALCOOL GEL CLEAN 70 ANTISEP PREMISSE 5LT;102;premisse_alcool_gel_clean_70_5l;S;N;S;S;N;N
+2836;AROMATIZANTE AMB PREMISSE AIR FRESH 5LT;102;premisse_aromatizante_air_fresh_5l;S;N;S;S;N;N
+4379;AROMATIZANTE AMB PREMISSE CONFORTO 300ML;102;premisse_aromatizante_conforto_300ml;S;N;S;S;N;N
+152;DISPENSE COPO AGUA PREMISSE BRANCO;102;premisse_dispenser_copo_agua_branco;S;S;S;S;S;N
+1387;DISPENSE COPO CAFE PREMISSE AZUL CLEAN;101;premisse_dispenser_copo_cafe;S;S;S;S;S;N
+4256;DISPENSE COPO CAFE PREMISSE BRANCO CLEAN;101;premisse_dispenser_copo_cafe_azul;S;S;S;S;S;N
+3537;DISPENSE P PROTETOR ASSENTO PREMISSE;101;premisse_dispenser_protetor_assento_sanitario;S;S;S;S;S;N
+127;DISPENSER MULTIP PREMISSE AZUL URB GLASS;102;premisse_dispenser_multiplo_urban_glass_azul;S;S;S;S;S;N
+125;DISPENSER MULTIPLO PREMISSE URBAN BCO;102;premisse_dispenser_multiplo_urban_branco;S;S;S;S;S;N
+126;DISPENSER MULTIPLO PREMISSE VERDE ;102;premisse_dispenser_multiplo_urban_verde;S;S;S;S;S;N
+1386;DISPENSER P SAB ESPUM PREMISSE CLEAN BCA;102;premisse_dispenser_sabonete_espuma_clean_branco;S;S;S;S;S;N
+142;DISPENSER P SAB PREMISSE COMP GLASS AZUL;102;premisse_dispenser_sabonete_compacta_glass_azul;S;S;S;S;S;N
+141;DISPENSER P SAB PREMISSE COMP GLASS VERD;102;premisse_dispenser_sabonete_compacta_glass_verde;S;S;S;S;S;N
+2351;DISPENSER P SAB PREMISSE VELOX;102;premisse_dispenser_sabonete_velox_branco;S;S;S;S;S;N
+1426;DISPENSER P SAB URBAN  BRANCO;102;premisse_dispenser_sabonete_urban_branco;S;S;S;S;S;N
+2348;DISPENSER P SAB URBAN  BRANCO P ABASTECE;102;premisse_dispenser_sabonete_urban_abastecer_branco;S;S;S;S;S;N
+1427;DISPENSER P SAB URBAN ESPUMA BRANCO;102;premisse_dispenser_sabonete_urban_espuma_branco;S;S;S;S;S;N
+5650;DISPENSER P SAB URBAN GLASS AMARELO;102;premisse_dispenser_sabonete_urban_glass_amarelo;S;S;S;S;S;N
+1552;DISPENSER P SAB URBAN GLASS AZUL;102;premisse_dispenser_sabonete_urban_glass_azul;S;S;S;S;S;N
+5651;DISPENSER P SAB URBAN GLASS LARANJA;102;premisse_dispenser_sabonete_urban_laranja;S;S;S;S;S;N
+5649;DISPENSER P SAB URBAN GLASS LILAS;102;premisse_dispenser_sabonete_urban_lilas;S;S;S;S;S;N
+4743;DISPENSER P SAB URBAN GLASS MARROM;102;premisse_dispenser_sabonete_urban_marrom;S;S;S;S;S;N
+130;DISPENSER P SAB URBAN GLASS VERDE;102;premisse_dispenser_sabonete_urban_glass_verde;S;S;S;S;S;N
+5354;DISPENSER PAP HIG KAI KAI PREMISSE BR ;102;premisse_dispenser_papel_higienico_cai_cai_branco;S;S;S;S;S;N
+1215;DISPENSER PAP HIG KAI KAI PREMISSE BRANC;102;premisse_dispenser_papel_higienico_cai_cai_branco_1215;S;S;S;S;S;N
+129;DISPENSER PAP HIG PREMISSE ROLAO VELOX;102;premisse_dispenser_papel_higienico_rolao_velox_branco;S;S;S;S;S;N
+4744;DISPENSER PAP TOA PREMISSE COMP MARROM;102;premisse_dispenser_papel_toalha_compacto_marrom;S;S;S;S;S;N
+5747;DISPENSER PAP TOA PREMISSE COMP VERDE;102;premisse_dispenser_papel_toalha_compacto_verde;S;S;S;S;S;N
+1553;DISPENSER PAP TOA PREMISSE COMPACT URBAN;102;premisse_dispenser_papel_toalha_compacto_branco;S;S;S;S;S;N
+2349;DISPENSER PAP TOALHA PREMISSE VELOX;102;premisse_dispenser_papel_toalha_velox_branco;S;S;S;S;S;N
+150;LIXEIRA PARA COPO PREMISSE 180ML;102;premisse_lixeira_copo_agua_180ml;S;S;S;S;N;N
+149;LIXEIRA PARA COPO PREMISSE 50ML;102;premisse_lixeira_copo_cafe_50ml;S;S;S;S;N;N
+4085;PORTA GUARD KAI KAI PREMISSE BRANCO;101;premisse_porta_guardanapo_cai_cai_branco;S;N;S;N;N;N
+157;PROTETOR DE ASSENTO SANITARIO PREMISSE;102;premisse_protetor_assento_sanitario;S;N;S;S;N;N
+4081;SAB LIQ PREMISSE ACAI E CAMOMILA 350ML;102;premisse_sabonete_acai_camomila_350ml;S;S;S;S;N;N
+99;SABONETE ANTISEPTICO PREMISSE 800ML;102;premisse_sabonete_antiseptico_gel_800ml;S;S;S;S;N;N
+2343;SABONETE ESP PREMISSE MAGIA FLORES 700ML;102;premisse_sabonete_espuma_magia_flores_700ml;S;S;S;S;N;N
+2838;SABONETE ESPU PREMISSE ENC NATUREZ 700ML;102;premisse_sabonete_espuma_encantos_natureza_700ml;S;S;S;S;N;N
+2345;SABONETE ESPUMA PREMISSE DELICATO 700ML;102;premisse_sabonete_espuma_delicato_700ml;S;S;S;S;N;N
+2837;SABONETE ESPUMA PREMISSE ERVA DOCE 700ML;102;premisse_sabonete_espuma_erva_doce_700ml;S;S;S;S;N;N
+98;SABONETE ESPUMA PREMISSE SENSITIVE 700ML;102;premisse_sabonete_espuma_sensitive_700ml;S;S;S;S;N;N
+2082;SABONETE LIQ PREMISSE ACAI E CAMOMIL 1LT;102;premisse_sabonete_acai_camomila_1l;S;S;S;S;N;N
+97;SABONETE LIQ PREMISSE GIRASSOL E CAL 1LT;102;premisse_sabonete_girassol_calendula_1l;S;S;S;S;N;N
+96;SABONETE LIQ PREMISSE MORANGO E HIB 1LT;102;premisse_sabonete_morango_hibiscus_1l;S;S;S;S;N;N
+2081;SABONETE LIQ PREMISSE PITANGA 1LT;102;premisse_sabonete_pitanga_1l;S;S;S;S;N;N
+4377;SABONETE LIQ PREMISSE TANGER CHA VERD 1L;102;premisse_sabonete_tangerina_cha_verde_1l;S;S;S;S;N;N
+2091;SABONETE LIQ PREMISSE VERBENA 5LT;102;premisse_sabonete_verbena_5l;S;S;S;S;N;N
+4630;ALCOOL 70 AUDAX  1L;102;audax_alcool_70_1l;S;S;S;S;N;S
+4631;ALCOOL 96 AUDAX  1L;102;audax_alcool_96_1l;S;S;S;S;N;S
+5242;ALCOOL P/ RECHAUD GEL 80 AUDAX 10KG;102;audax_alcool_rechaud_80_10kg;N;N;S;N;N;N
+162;AMACIANTE AUDAX CLASSICO 2LT;102;audax_amaciante_classico_2l;S;S;N;N;N;N
+5641;AMACIANTE AUDAX CLASSICO 5L;102;audax_amaciante_classico_5l.jpg;S;S;N;N;N;N
+2967;BASE SELADORA INNOVATION AUDAX 5LT;102;audax_base_seladora_innovation;S;N;S;N;N;N
+2011;CERA LIQUIDA INNOVATION AUDAX 5LT;102;audax_cera_liquida_innovation;S;N;S;N;N;N
+140;DESINF CLEOSOL AUDAX LAVANDA 5LT;102;audax_desinfetante_cleosol_lavanda;S;N;S;N;N;N
+138;DESINF MAX AUDAX LAVANDA 5LT;102;audax_desinfetante_max_lavanda;S;N;S;N;N;N
+2701;DESINFETANTE GOLD FLORAL AUDAX 5LT;102;audax_desinfetante_gold_floral;S;N;S;N;N;N
+5643;DET EM PO AUDAX FACILITA 5KG;102;audax_det_po_facilita_5kg;S;S;N;N;N;N
+134;DET LIQ CLETEX AUDAX 5LT;102;audax_detergente_cletex;S;N;S;N;N;N
+5638;DETERGENTE GOLD CLORADO AUDAX 5L;102;audax_detergente_gold_clorado;S;N;S;N;N;N
+2699;DETERGENTE GOLD NEUTRO AUDAX 5LT;102;audax_detergente_gold_neutro;S;N;S;N;N;N
+915;HIPOCLORITO DE SODIO AUDAX 5LT;102;audax_hipoclorito_de_sodio;S;N;S;N;N;N
+1483;MULTIUSO AUDAX LAVANDA 500ML;102;audax_multiuso_lavanda_500ml;S;S;S;N;N;N
+4520;SABONETE ESP AUDAX ALLCLEAN ERVA DOCE 5L;102;audax_sabonete_espuma_all_clean;S;N;S;S;N;N
+151;SABONETE LIQ AUDAX ALL CLEAN ANTISEP 5LT;102;audax_sabonete_antisseptico_all_clean;S;N;S;S;N;N
+1628;SABONETE LIQ DESENGRAXANTE AUDAX 5LT;102;audax_sabonete_desengraxante_5l;S;N;S;S;N;N
+278;PROTETOR DE ALUMINIO FOGAO TERMICA;101;termica_protetor_fogao;N;S;N;S;N;N
+2708;COPO BALADA 300ML COPOBRAS MISTO 20X25CX;101;copobras_copo_balada_300ml;N;S;N;S;N;N
+1166;ARMACAO BRALIMPIA 40CM PROFI;102;brlimpia_armacao_profissional;S;N;S;N;N;N
+4653;ARMACAO BRALIMPIA 45CM PROFI;102;brlimpia_armacao_profissional;S;N;S;N;N;N
+1168;ARMACAO BRALIMPIA 60CM PROFI;102;brlimpia_armacao_profissional;S;N;S;N;N;N
+2991;BALDE 4L C ALCA BRALIMPIA VERMELHO;102;bralimpia_balde_4l_com_alca;S;N;S;N;N;N
+836;BALDE ESPREMEDOR BRALIMPIA DOBLO AMARELO;102;bralimpia_balde_espremedor_doblo_amarelo;S;N;S;N;N;N
+837;BALDE ESPREMEDOR BRALIMPIA DOBLO AZUL;102;bralimpia_balde_espremedor_doblo_azul;S;N;S;N;N;N
+838;BALDE ESPREMEDOR BRALIMPIA DOBLO VERDE;102;bralimpia_balde_espremedor_doblo_verde;S;N;S;N;N;N
+839;BALDE ESPREMEDOR BRALIMPIA DOBLO VERMELH;102;bralimpia_balde_espremedor_doblo_vermelho;S;N;S;N;N;N
+2040;BALDE ESPREMEDOR MOPINHO BRALIMPIA AMARE;102;bralimpia_balde_espremedor_mopinho_amarelo;S;N;S;N;N;N
+2039;BALDE ESPREMEDOR MOPINHO BRALIMPIA AZUL;102;bralimpia_balde_espremedor_mopinho_azul;S;N;S;N;N;N
+2998;BALDE ESPREMEDOR MOPINHO BRALIMPIA VERDE;102;bralimpia_balde_espremedor_mopinho_verde;S;N;S;N;N;N
+2031;BALDE ESPREMEDOR MOPINHO BRALIMPIA VERME;102;bralimpia_balde_espremedor_mopinho_vermelho;S;N;S;N;N;N
+823;CABO BRALIMPIA 22MMX1.4MT FOSCO;102;bralimpia_cabo_fosco;S;N;S;N;N;N
+2025;CARRO FUNC BRALIMPIA AMERICA BOLSA AMA;102;bralimpia_carro_funcional_america;S;N;S;N;N;N
+3512;CARRO FUNC BRALIMPIA PAN-AMERICA;102;bralimpia_carro_funcional_pan_america;S;N;S;N;N;N
+5614;CESTO BASC BRALIMPIA 14L PRETO;102;bralimpia_cesto_basculhante_14l;S;N;S;N;N;N
+1504;CESTO BASC BRALIMPIA 23LT AZUL;102;bralimpia_cesto_basculhante_23l_azul;S;N;S;N;N;N
+1506;CESTO BASC BRALIMPIA 23LT VERMELHO;102;bralimpia_cesto_basculhante_23l_vermelho;S;N;S;N;N;N
+5361;CESTO GARI 120LT C RODA BRALIMPIA AZUL;102;bralimpia_cesto_gari_com_rodas_120l_azul;S;N;S;N;N;N
+1903;CESTO GARI 120LT C RODA BRALIMPIA BRANCO;102;bralimpia_cesto_gari_120l;S;N;S;N;N;N
+3754;CESTO GARI 120LT C RODA BRALIMPIA VERDE;102;bralimpia_cesto_gari_com_rodas_120l_verde;S;N;S;N;N;N
+2026;CESTO GARI 120LT C RODA BRALIMPIA VERMEL;102;bralimpia_cesto_gari_com_rodas_120l_vermelho;S;N;S;N;N;N
+3226;COMBINADO BRALIMPIA COM CABO 25CM;102;bralimpia_combinado_com_cabo;S;N;S;N;N;N
+2990;CONJUNTO BRALIMPIA HIGH TECH 40CM;102;bralimpia_conjunto_high_tech_40cm;S;N;S;N;N;N
+2367;ENCERADEIRA BRALIMPIA MOD.440MM 220V;102;bralimpia_enceradeira_440mm;S;N;S;N;N;N
+2037;ESPETO COLETOR DE LIXO (STICHER) BRALIMP;102;bralimpia_espeto_coletor_lixo_sticher;S;N;S;N;N;N
+5364;EXTENSAO TELESCOPICA 3M 3 ESTA BRALIMPIA;102;bralimpia_extensao_telescopica;S;N;S;N;N;N
+3868;EXTENSAO TELESCOPICA 7,5M BRALIMPIA;102;bralimpia_extensao_telescopica;S;N;S;N;N;N
+1323;GUIA REMOVIVEL BRALIMPIA 25CM;102;bralimpia_guia_removivel;S;N;S;N;N;N
+824;GUIA REMOVIVEL BRALIMPIA 35CM;102;bralimpia_guia_removivel;S;N;S;N;N;N
+848;HASTE C CABO BRALIMPIA TIPO EURO AZUL;102;bralimpia_haste_com_cabo_euro_azul;S;N;S;N;N;N
+3221;KIT BRALIMPIA PLUS COM BOLSA;102;bralimpia_kit_plus_com_bolsa;S;N;S;N;N;N
+5365;KIT PROMOCIONAL 1 AMARELO;102;bralimpia_kit_promocional_1;S;N;S;N;N;N
+4948;KIT PROMOCIONAL 2;102;bralimpia_kit_promocional_2;S;N;S;N;N;N
+1162;LAMINA DE BORRACHA BRALIMPIA 35CM;102;bralimpia_laminha_borracha;S;N;S;N;N;N
+2362;LIXEIRA 50L ALÇA/TAMPA BRALIMPIA AMARELA;102;bralimpia_lixeira_50l_com_alca;S;N;S;N;N;N
+2363;LIXEIRA 50L ALÇA/TAMPA BRALIMPIA AZUL;102;bralimpia_lixeira_50l_com_alca;S;N;S;N;N;N
+2364;LIXEIRA 50L ALÇA/TAMPA BRALIMPIA VERDE;102;bralimpia_lixeira_50l_com_alca;S;N;S;N;N;N
+2365;LIXEIRA 50L ALÇA/TAMPA BRALIMPIA VERMELH;102;bralimpia_lixeira_50l_com_alca;S;N;S;N;N;N
+5360;LIXEIRA P COPOS AZUL BRALIMPIA;101;bralimpia_lixeira_para_copos;S;N;S;S;N;N
+5668;LIXEIRA S GRAV BRALIMPIA 50L AMAREL FERR;102;bralimpia_lixeira_50l_sem_gravuras_com_ferragens;S;N;S;N;N;N
+5669;LIXEIRA S GRAV BRALIMPIA 50L AZUL FERRAG;102;bralimpia_lixeira_50l_sem_gravuras_com_ferragens;S;N;S;N;N;N
+833;LT BRALIMPIA EURO AZUL;102;bralimpia_lt_euro_azul;S;N;S;N;N;N
+816;MINI KIT BRALIMPIA;102;bralimpia_mini_kit;S;N;S;N;N;N
+2366;MODULO P LIXEIRAS 50L C/RODAS BRALIMPIA;102;bralimpia_modulo_lixeira_50l_com_rodas;S;N;S;N;N;N
+3867;PA COLETORA BRALIMPIA SELETIVA AMARELA;102;bralimpia_pa_coletora;S;N;S;N;N;N
+2666;PA COLETORA BRALIMPIA SELETIVA AZUL;102;bralimpia_pa_coletora;S;N;S;N;N;N
+2454;PA COLETORA BRALIMPIA SELETIVA VERDE;102;bralimpia_pa_coletora;S;N;S;N;N;N
+2999;PA COLETORA BRALIMPIA SELETIVA VERMELHA;102;bralimpia_pa_coletora;S;N;S;N;N;N
+3238;PA COLETORA PLAST PROFISSIONAL BRALIMPIA;102;bralimpia_pa_coletora;S;N;S;N;N;N
+5363;PA COLETORA POP BRALIMPIA AZUL CABO ALUM;102;bralimpia_pa_coletora;S;N;S;N;N;N
+818;PLACA SINAL BRAL PISO MOLHADO;102;bralimpia_placa_sinal_piso_molhado;S;N;S;N;N;N
+828;PULVERIZADOR BRALIMPIA 1L;102;bralimpia_pulverizador_500ml_1l;S;N;S;N;N;S
+1260;PULVERIZADOR BRALIMPIA 500ML;102;bralimpia_pulverizador_500ml_1l;S;N;S;N;N;S
+849;RASPADOR PESADO BRALIMPIA COM CABO;102;bralimpia_raspador_pesado_com_cabo;S;N;S;N;N;N
+1159;RASPADOR PESADO C CABO BRALIMPIA;102;bralimpia_raspador_pesado_com_cabo;S;N;S;N;N;N
+3535;REFIL MOP BRALIMPIA CRU LOOP CINTA VERME;102;bralimpia_refil_mop_cru_loop_cinta_vermelho;S;N;S;N;N;N
+843;REFIL MOP BRALIMPIA MICROFIBRA BCO;102;bralimpia_refil_mop_microfibra_branco;S;N;S;N;N;N
+819;REFIL MOPINHO BRALIMPIA  30CM;102;bralimpia_refil_mopinho_30cm;S;N;S;N;N;N
+817;RODO PLASTICO BRALIMPIA AZUL 55CM;102;bralimpia_rodo_plastico_55cm;S;N;S;N;N;N
+845;RODO PLASTICO BRALIMPIA AZUL DRY 45CM;102;bralimpia_rodo_plastico_dry_azul;S;N;S;N;N;N
+846;RODO PLASTICO BRALIMPIA AZUL DRY 55CM;102;bralimpia_rodo_plastico_dry_azul;S;N;S;N;N;N
+844;RODO PLASTICO BRALIMPIA AZUL DRY 65CM;102;bralimpia_rodo_plastico_dry_azul;S;N;S;N;N;N
+2989;SABONETEIRA DE RESERVATORIO BRALIMPIA;102;bralimpia_saboneteira_reservatorio;S;N;S;S;N;N
+2993;SUPER MOP DOMESTICO BRALIMPIA;102;bralimpia_super_mop_domestico;S;N;S;N;N;N
+1907;TELA MICTORIO AZUL BRALIMPIA;102;bralimpia_tela_mictorio_azul_verde;S;N;S;S;N;N
+1909;TELA MICTORIO VERMELHA BRALIMPIA;102;bralimpia_tela_mictorio_vermelha_amarela;S;N;S;S;N;N
+3947;VASSOURA MACIA 40CM BRALIMPIA;102;bralimpia_vassoura_macia;S;S;S;N;N;N
+2038;VASSOURA MINI PARA PA COLETORA BRALIMPIA;102;bralimpia_vassoura_mini_pa_coletora;S;N;S;N;N;N
+4464;BALDE 10L SEKITO ZIG ZAG BETTANIN;102;bettanin_balde_10l_sekito;S;N;S;S;N;N
+4463;BALDE 14L NOVIÇA ZIG ZAG BETTANIN;102;bettanin_balde_14l_zig_zag;S;N;S;S;N;N
+3970;CONJ BALDE TWISTER C PEDAL+MOP BETTANIN;102;bettanin_balde_twister_com_pedal_mop_twister;S;N;S;S;N;N
+3960;DESENTUPIDOR GRANDE BETTANIN;102;bettanin_desentupidor_grande;S;S;S;N;N;N
+4461;DESENTUPIDOR PIAS E RALOS BETTANIN;102;bettanin_desintupidor_pias_ralos;S;S;S;N;N;N
+786;ESCOVA BETTAJEANS BETTANIN;102;bettanin_escova;S;S;S;N;N;N
+3981;ESCOVA BRILHUS MULTIUSO BETTANIN;102;bettanin_escova_brilhus_multiuso;S;S;S;N;N;N
+3959;ESCOVA NOVICA ADAPT BETTANIN;102;bettanin_escova_com_cabo;S;S;S;N;N;N
+3983;ESCOVA SANITARIA SANILUX C SUP. BETTANIN;102;bettanin_escova_sanitaria_suporte;S;S;S;S;N;N
+4460;ESCOVA SANITARIA SANILUX C SUP. BETTANIN;102;bettanin_escova_sanitaria_suporte2;S;S;S;S;N;N
+762;ESCOVA SANITARIA SANILUX S SUP. BETTANIN;102;bettanin_escova_sanitaria_sem_suporte;S;S;S;S;N;N
+3976;ESPONJA BRILHUS BETTANIN;102;bettanin_esponja_brilhus;S;S;S;N;N;N
+3977;ESPONJA ESFREBOM PROTEGE UNHAS BETTANIN;102;bettanin_esponja_esfrebom_protege_unhas;S;N;S;N;N;N
+3978;LUVA ESFREBOM FASHION BETTANIN;102;bettanin_luva_fashion;S;N;S;N;N;N
+3961;MOP ABRASIVO ESFREBOM BETTANIN;102;bettanin_mop_abrasivo;S;N;S;N;N;N
+3965;MOP ESFREGAO ALGODAO ZIG ZAG BETTANIN;102;bettanin_mop_esfregao_algodao;S;N;S;N;N;N
+3966;MOP ESFREGAO LIMPATUDO ZIG ZAG BETTANIN;102;bettanin_mop_esfregao_limpatudo;S;N;S;N;N;N
+767;MOP LUSTRADOR ALGODAO ZIG ZAG BETTANIN;102;bettanin_mop_lustrador_algodao;S;N;S;N;N;N
+1178;MOP LUSTRADOR LA BETTANIN;102;bettanin_mop_lustrador_la;S;N;S;N;N;N
+3974;MOP NOVICA SPRAY BETTANIN;102;bettanin_mop_spray;S;N;S;N;N;N
+3975;MOP NOVICA TORCAO BETTANIN;102;bettanin_mop_torcao;S;N;S;N;N;N
+765;MOP ZIG ZAG SEKITO BETTANIN;102;bettanin_mop_zig_zag_sekito;S;N;S;N;N;N
+3958;PA COLETORA NOVIÇA BETTANIN;102;bettanin_pa_coletora;S;N;S;N;N;N
+763;PA DE ACO NOVICA BETTANIN;102;bettanin_pa;S;N;S;N;N;N
+1179;PA DE CABO LONGO NOVIÇA BETTANIN;102;bettanin_pa_cabo_longo;S;N;S;N;N;N
+3964;REFIL MOP ABRASIVO ESFREBOM BETTANIN;102;bettanin_refil_abrasivo;S;N;S;N;N;N
+3973;REFIL MOP BALDE TWISTER C/PEDAL BETTANIN;102;bettanin_refil_mop_twister;S;N;S;N;N;N
+3967;REFIL MOP ESFREGAO ALGODAO ZIG BETTANIN;102;bettanin_refil_algodao;S;N;S;N;N;N
+3968;REFIL MOP ESFREGAO LIMPATUDO BETTANIN;102;bettanin_refil_limpatudo;S;N;S;N;N;N
+3963;REFIL MOP LUSTRADOR ALGODAO ZIG BETTANIN;102;bettanin_refil_lustrador_algodao;S;N;S;N;N;N
+3962;REFIL MOP LUSTRADOR LA BETTANIN;102;bettanin_refil_lustrador_la;S;N;S;N;N;N
+3969;REFIL MOP ZIG ZAG SEKITO BETTANIN;102;bettanin_refil_zig_zag_sekito;S;N;S;N;N;N
+3957;RODO VAI E VEM M BETTANIN;102;bettanin_rodo_vai_vem_m;S;S;S;S;N;S
+785;RODO VAI E VEM P BETTANIN;102;bettanin_rodo_vai_vem_p;S;S;S;S;N;S
+3979;VASSOURA BRILHUS BETTANIN;102;bettanin_vassoura_brilhus;S;S;S;S;N;S
+3954;VASSOURA ORIGINAL BETTANIN;102;bettanin_vassoura_original;S;S;S;S;N;S
+783;VASSOURA PISO DELICADO BETTANIN;102;bettanin_vassoura_piso_delicado;S;S;S;S;N;S
+784;VASSOURA VARRY 1000 BETTANIN;102;bettanin_vassoura_varry;S;S;S;S;N;S
+3982;VASSOURITA BRILHUS BETTANIN;102;bettanin_vassourita_brilhus;S;S;S;S;N;S
+5348;AROMATIZANTE MIRAX AIR RENKO AMADEIR 5L;102;renko_aromatizante_mirax_amadeirado;S;N;N;S;N;N
+5349;AROMATIZANTE MIRAX AIR RENKO FLORES 5L;102;renko_aromatizante_mirax_flores;S;N;N;S;N;N
+5578;CERA ACRILICA MAXIMA BRILHO 5L;102;renko_cera_acrilica_maxima_brilho;S;S;S;S;N;N
+4639;DESENGRAXANTE ECO ORANGE RENKO 1L;102;renko_desengraxante_eco_orange_1l;N;N;S;N;N;N
+3051;DESINF MIRAX ALTA DILU FLORAL TALCO 5LT;102;renko_desinfetante_mirax_alta_diluicao_floral_talco;S;S;S;N;N;N
+650;DESINF MIRAX RENKO FLORAL BOUQUET 5LT;102;renko_desinfetante_mirax_floral_bouquet;S;S;N;N;N;N
+651;DESINF MIRAX RENKO LAVANDA CAMPESTRE 5LT;102;renko_desinfetante_mirax_lavanda_campestre;S;S;N;N;N;N
+652;DESINF MIRAX RENKO PINHO AMAZONIA 5LT;102;renko_desinfetante_mirax_pinho_amazonian;S;S;N;N;N;N
+653;DESINF MIRAX-A RENKO SEM PERFUME 5LT;102;renko_desinfetante_mirax_a_sem_perfume_5l;N;N;S;S;N;N
+4640;DESINF USO HOSPITALAR MIRAX RENKO 5L;102;renko_desinfetante_mirax_uso_hospitalar;N;N;N;S;N;N
+3049;DET DESENGRAX KLYO FLASH RENKO CONC 5L;102;renko_detergente_concentrado_desengraxante_kylo_flash_5l;S;N;N;N;N;N
+5707;DET DESENGRAXANTE KLYO RENKO 5L;102;renko_detergente_desengraxante_klyo_pine_5l;S;N;N;N;N;N
+3052;DET DESINF CHEF RENKO MULTIBAC 5L SANITI;102;renko_desinfetante_chef_multibac_5l;S;N;N;S;N;N
+4641;DET DESINF CLORADO CHEF CLOR S  RENKO 5L;102;renko_desinfetante_clorado_chef_clor_s_5l;S;N;N;N;N;N
+659;DET LIQ CONC BRILLIA RENKO NEUTRO 5LT;102;renko_detergente_concentrado_brillia_neutro_5l;S;N;N;N;N;N
+658;DET LIQ CONC RENKO CHEF AMONIACAL 5LT;102;renko_detergente_concentrado_chef_amoniacal_5l;S;N;N;N;N;N
+2696;LAVA LOUCAS DET DERTEX PROF RENKO 5L;102;renko_lava_loucas_detergente_dertex_5l;S;N;S;N;N;N
+2697;LAVA LOUCAS SECANTE SECCA PROF RENKO 5L;102;renko_lava_loucas_secante_secca_5l;S;N;S;N;N;N
+4502;LIMP CHEF MULTIUSO LIMA LIMAO 5LT;102;renko_limpador_multiuso_chef_lima_limao_5l;S;N;N;N;N;N
+4627;LIMP DESINCRUST KLYO RENKO DESINF 5LT;102;renko_limpador_desincrustante_klyo_desinf_5l;S;N;N;N;N;N
+654;LIMP GERAL KLYO RENKO ACAI C GUARANA 5LT;102;renko_limpador_geral_klyo_acai_c_guarana;S;N;N;N;N;N
+655;LIMP GERAL KLYO RENKO CRISTAL 5LT;102;renko_limpador_geral_klyo_cristal_5l;S;N;N;N;N;N
+656;LIMP GERAL KLYO RENKO ROSE 5LT;102;renko_limpador_geral_klyo_rose_5l;S;N;N;N;N;N
+4628;LIMP GERAL MIRAX MAGIC FLOT 5LT;102;renko_limpador_geral_magic_flot_5l;S;N;N;N;N;N
+4638;LIMP KLYO POS OBRA DESINCRUST RENKO 5L;102;renko_limpador_desincrustante_pos_obra_5l;S;N;N;N;N;N
+2393;LIMP PEDRAS KLYO RENKO 5LT;102;reko_limpa_pedras_klyo_5l;S;N;N;N;N;N
+4637;LIMP PISO PORCELANATOS KLYO RENKO 5L;102;renko_limpador_piso_porcelanatos_klyo_floor_5l;S;N;N;N;N;N
+4646;LIMPA INOX KLYO RENKO 5L;102;renko_limpa_inox_klyo_5l;S;N;S;N;N;N
+1733;LIMPA VIDRO KLYO RENKO 5LT;102;renko_limpa_vidros_klyo_5l;S;S;S;N;N;N
+5347;LIMPADOR GERAL KLYO OXY 5L;102;renko_limpador_geral_klyo_oxy_5l;S;N;N;N;N;N
+5350;REMOVEDOR CERA ATIWAX RENKO 5L;102;renko_removedor_cera_atiwax_5l;S;N;S;S;N;N
+5706;RENOVA INOX KLYO RENKO 5L;102;renko_renova_inox_klyo5l;S;N;S;N;N;N
+5464;SABONETE LIQ ANTISSEP SUAVITE RENKO 5L;102;renko_sabonete_antisseptico_suavite_5l;S;S;S;S;N;N
+4643;SABONETE LIQ SOFT DOCE FRESCOR RENKO 5L;102;renko_sabonete_soft_doce_frescor_5l;S;S;S;S;N;N
+4642;SABONETE LIQ SOFT FLORES CAMPO RENKO 5L;102;renko_sabonete_soft_flores_campo_5l;S;S;S;S;N;N
+4645;SABONETE LIQ SOFT PESSEGO RENKO 5L;102;renko_sabonete_soft_pessego_5l;S;S;S;S;N;N
+1029;FILTRO PAPEL CAFE MALU N102;101;malu_filtro_cafe_102;S;S;S;N;N;S
+1028;FILTRO PAPEL CAFE MALU N103;101;malu_filtro_cafe_103;S;S;S;N;N;S
+2309;GUARDANAPO MALU 14X14;101;malu_guardanapo_14x14;S;S;S;N;N;S
+2310;GUARDANAPO MALU 21X23;101;malu_guardanapo_21x23;S;S;S;N;N;S
+2311;GUARDANAPO MALU 32X33;101;malu_guardanapo_32x33;S;S;S;N;N;S
+1671;CATCHUP AUREA SACHE;106;aurea_ketchup;N;S;N;N;N;N
+2637;DOCE DE LEITE AUREA 4,8 KG;106;aurea_doce_de_leite;N;N;N;N;N;N
+2466;DOCE DE LEITE C/ CHOCOLATE AUREA 4,8KG;106;aurea_doce_de_leite_com_chocolate;N;N;N;N;N;N
+1672;MAIONESE AUREA SACHE;106;aurea_maionese;N;S;N;N;N;N
+1673;MOSTARDA AUREA SACHE;106;aurea_mostarda;N;S;N;N;N;N
+1994;FORMULARIO CONT MAXPRINT 1 VIA C/2500;103;maxprint_formulario_continuo;N;N;N;N;N;S
+1241;FORMULARIO RAZAO MAXPRINT 1 VIA C/6000;103;maxprint_formulario_razao;N;N;N;N;N;S
+4952;ALFINETE PARA MAPA 6MM BOLA BRW;103;brw_alfinete_6mm;N;N;N;N;N;S
+4951;ALFINETE PARA MAPA 8MM BOLA BRW;103;brw_alfinete_8mm;N;N;N;N;N;S
+4953;APAGADOR P/ QUADRO BRANCO BRW MAGNE AZUL;103;brw_apagador_quadro_branco;N;N;N;N;N;S
+2212;APLICADOR MANUAL PARA FITA AZUL BRW;103;brw_aplicador_manual_fita_azul;N;N;N;N;N;S
+2213;APLICADOR MANUAL PARA FITA VERMELHO BRW;103;brw_aplicador_manual_fita_vermelho;N;N;N;N;N;S
+2104;APONTADOR ESC REDONDO  BRW;103;brw_apontador_escolar_redondo;N;N;N;N;N;S
+2744;BASTAO COLA QUENTE FINA BRW;103;brw_bastao_cola_quente_fina;N;N;N;N;N;S
+2745;BASTAO COLA QUENTE GROSSA BRW;103;brw_bastao_cola_quente_grossa;N;N;N;N;N;S
+2114;BINDER CLIP BRW 25MM;103;brw_binder_clip;N;N;N;N;N;S
+2111;BINDER CLIP BRW 32MM;103;brw_binder_clip;N;N;N;N;N;S
+4954;BLOCO DE ANOT 38X51MM AMARELO 4UND BRW;103;brw_bloco_anotacao_38x51_amarelo;N;N;N;N;N;S
+4956;BLOCO DE ANOT 38X51MM LARANJA 4UN BRW;103;brw_bloco_anotacao_38x51_laranja;N;N;N;N;N;S
+4964;BLOCO DE ANOT 76X76MM CUBO 400 FLS BRW;103;brw_bloco_anotacao_76x76_colorido;N;N;N;N;N;S
+4955;BLOCO DE ANOTACOES 38X51MM COLORIDO BRW;103;brw_bloco_anotacao_38x51_colorido;N;N;N;N;N;S
+4957;BLOCO DE ANOTACOES 38X51MM ROSA 4UN BRW;103;brw_bloco_anotacao_38x51_rosa;N;N;N;N;N;S
+4958;BLOCO DE ANOTACOES 38X51MM VERDE 4UN BRW;103;brw_bloco_anotacao_38x51_verde;N;N;N;N;N;S
+4959;BLOCO DE ANOTACOES 76X102MM AMARELO BRW;103;brw_bloco_anotacao_76x102_amarelo;N;N;N;N;N;S
+4960;BLOCO DE ANOTACOES 76X102MM LARANJA BRW;103;brw_bloco_anotacao_76x102_laranja;N;N;N;N;N;S
+4961;BLOCO DE ANOTACOES 76X102MM ROSA BRW;103;brw_bloco_anotacao_76x102_rosa;N;N;N;N;N;S
+4962;BLOCO DE ANOTACOES 76X102MM VERDE BRW;103;brw_bloco_anotacao_76x102_verde;N;N;N;N;N;S
+4963;BLOCO DE ANOTACOES 76X76MM AMARELO BRW;103;brw_bloco_anotacao_76x76_amarelo;N;N;N;N;N;S
+4965;BLOCO DE ANOTACOES 76X76MM LARANJA BRW;103;brw_bloco_anotacao_76x76_laranja;N;N;N;N;N;S
+4966;BLOCO DE ANOTACOES 76X76MM ROSA BRW;103;brw_bloco_anotacao_76x76_rosa;N;N;N;N;N;S
+4967;BLOCO DE ANOTACOES 76X76MM VERDE BRW;103;brw_bloco_anotacao_76x76_verde;N;N;N;N;N;S
+2109;BORRACHA BRANCA BRW COM CAPA PEQUENA;103;brw_borracha_com_capa;N;N;N;N;N;S
+4347;CALCULADORA DE BOLSO BRW 8 DIGITOS;103;brw_calculadora_bolso_8_digitos;N;N;N;N;N;S
+2215;CALCULADORA GRANDE BRW 12 DIGITOS;103;brw_calculadora_grande_12_digitos;N;N;N;N;N;S
+2214;CALCULADORA MEDIA BRW 12 DIGITOS;103;brw_calculadora_media_12_digitos;N;N;N;N;N;S
+3470;CALCULADORA PEQUENA BRW 8 DIGITOS;103;brw_calculadora_pequena_8_digitos;N;N;N;N;N;S
+2115;CLIPS PARA PAPEIS BRW N0;103;brw_clips_para_papeis;N;N;N;N;N;S
+508;CLIPS PARA PAPEIS BRW N2 ;103;brw_clips_para_papeis;N;N;N;N;N;S
+509;CLIPS PARA PAPEIS BRW N3;103;brw_clips_para_papeis;N;N;N;N;N;S
+1755;CLIPS PARA PAPEIS BRW N4;103;brw_clips_para_papeis;N;N;N;N;N;S
+510;CLIPS PARA PAPEIS BRW N6;103;brw_clips_para_papeis;N;N;N;N;N;S
+1208;CLIPS PARA PAPEIS BRW N8;103;brw_clips_para_papeis;N;N;N;N;N;S
+2110;COLA BASTAO BRW 21GR;103;brw_cola_bastao_21g;N;N;N;N;N;S
+4968;COLA BASTAO BRW 9GR;103;brw_cola_bastao_9g;N;N;N;N;N;S
+5540;COLA BRANCA BRW 1KG;103;brw_cola_branca_1kg;N;N;N;N;N;S
+5538;COLA BRANCA BRW 40G;103;brw_cola_branca_40g;N;N;N;N;N;S
+5539;COLA BRANCA BRW 500G;103;brw_cola_branca_500g;N;N;N;N;N;S
+5659;COLA BRANCA BRW 90G;103;brw_cola_branca_90g;N;N;N;N;N;S
+5615;COLA COLORIDA BRW 21G C/ 4UN;103;brw_cola_colorida;N;N;N;N;N;S
+5616;COLA COM GLITER BRW 25G C/ 6UN;103;brw_cola_com_gliter;N;N;N;N;N;S
+4969;COLA EM FITA BRW;103;brw_cola_em_fita;N;N;N;N;N;S
+5179;COLA ISOPOR LIQUIDA 80G BRW;103;brw_cola_isopor;N;N;N;N;N;S
+5178;COLA SILICONE LIQUIDA 50G BRW;103;brw_cola_silicone;N;N;N;N;N;S
+5658;CORRETIVO LIQ BRW 18ML;103;brw_corretivo_liquido;N;N;N;N;N;S
+3760;ESTILETE BRW 18MM;103;brw_estilete_18mm;N;N;N;N;N;S
+3759;ESTILETE BRW 9MM;103;brw_estilete_9mm;N;N;N;N;N;S
+2216;ESTILETE PROF.18MM C/ TRAVA DE SEGUR BRW;103;brw_estilete_18mm_com_trava_seguranca;N;N;N;N;N;S
+4922;ESTILETE USO PROF.18MM BRW;103;brw_estilete_18mm_uso_profissional;N;N;N;N;N;S
+2217;EXTRATOR DE GRAMPO BRW;103;brw_extratro_grampo;N;N;N;N;N;S
+3468;FITA ADES BRW TRANSP 45MMX45M;103;brw_fita_adesiva_45x45;N;N;N;N;N;S
+4348;FITA CORRETIVA BRW 5MMX6M;103;brw_fita_corretiva;N;N;N;N;N;S
+4920;GRAMPEADOR BRW 25FLS 20CM;103;brw_grampeador_25f_20cm;N;N;N;N;N;S
+2103;GRAMPEADOR BRW MET 100 FOLHAS;103;brw_grampeador_metal_100f;N;N;N;N;N;S
+4970;GRAMPEADOR BRW MET 240 FOLHAS;103;brw_grampeador_metal_240f;N;N;N;N;N;S
+5541;GRAMPEADOR BRW MET MEDIO 25 FOLHAS;103;brw_grampeador_metal_medio_25f;N;N;N;N;N;S
+2102;GRAMPEADOR BRW MET PEQUENO;103;brw_grampeador_metal_pequeno;N;N;N;N;N;S
+2218;GRAMPEADOR GRANDE BRW;103;brw_grampeador_grande;N;N;N;N;N;S
+2219;GRAMPEADOR MEDIO BRW;103;brw_grampeador_medio;N;N;N;N;N;S
+4972;GRAMPO GALVANIZADO BRW 23/10;101;brw_grampo_galvanizado_23_10;N;N;N;N;N;N
+521;GRAMPO TRILHO METAL C/50 BRW;103;brw_grampo_trilho_metal;N;N;N;N;N;S
+1371;GRAMPOS BRW COBREADO 26/6;103;brw_grampo_cobreado_26_6;N;N;N;N;N;S
+1213;GRAMPOS BRW GALVANIZADO 26/6;103;brw_grampo_galvanizado_26_6;N;N;N;N;N;S
+2220;LAMINA PARA ESTILETE 18MM BRW;103;brw_lamina_para_estilete_18mm;N;N;N;N;N;S
+2221;LAMINA PARA ESTILETE 9MM BRW;103;brw_lamina_para_estilete_9mm;N;N;N;N;N;S
+2100;LAPIS DE COR BRW;103;brw_lapis_de_cor;N;N;N;N;N;S
+5721;LAPIS DE COR ECO SEXTAVADO BRW;103;brw_lapis_de_cor_eco_sextavado;N;N;N;N;N;S
+5181;LAPIS PRETO HB REDONDO BRW;103;brw_lapis_preto_hb_redondo;N;N;N;N;N;S
+5543;LAPIS VERDE C BORRACHA BRW;103;brw_lapis_verde_com_borracha;N;N;N;N;N;S
+5542;LAPIS VERDE HB RECICLADO BRW;103;brw_lapis_verde_hb_reciclado;N;N;N;N;N;S
+5182;LAPIS VERDE HB SEXTAVADO BRW;103;brw_lapis_verde_hb_sextavado;N;N;N;N;N;S
+2105;MARCA TEXTO BRW AMARELO;103;brw_marca_texto_amarelo;N;N;N;N;N;S
+2106;MARCA TEXTO BRW AZUL;103;brw_marca_texto_azul;N;N;N;N;N;S
+3663;MARCA TEXTO BRW LARANJA;103;brw_marca_texto_laranja;N;N;N;N;N;S
+3662;MARCA TEXTO BRW ROSA;103;brw_marca_texto_rosa;N;N;N;N;N;S
+2107;MARCA TEXTO BRW VERDE;103;brw_marca_texto_verde;N;N;N;N;N;S
+3469;MARCADOR CD DVD BRW PRETO;103;brw_marcador_cd_dvd_preto;N;N;N;N;N;S
+5177;MOLHA DEDO 12G BRW ;103;brw_molha_dedo_12g;N;N;N;N;N;S
+5175;PASTA AZ A4 LOMBO LARGO BRW CINZA;103;brw_pasta_az_cinza;N;N;N;N;N;S
+1887;PERCEVEJO LATONADO BRW N2 ;103;brw_percevejo_latonado_n2;N;N;N;N;N;S
+3942;PERFURADOR GRANDE BRW;103;brw_perfurador_grande;N;N;N;N;N;S
+3941;PERFURADOR MEDIO BRW;103;brw_perfurador_medio;N;N;N;N;N;S
+3761;PISTOLA COLA QUENTE BRW GRANDE;103;brw_pistola_cola_quente_grande;N;N;N;N;N;S
+3762;PISTOLA COLA QUENTE BRW PEQUENA;103;brw_pistola_cola_quente_pequena;N;N;N;N;N;S
+3612;SACO COM 11 FUROS A4 BRW;103;brw_saco_com_11_furos_a4;N;N;N;N;N;S
+5172;SUPORTE  FITA ADESIVA GRANDE BRW AZUL;103;brw_suporte_fita_adesiva_grande;N;N;N;N;N;S
+5173;SUPORTE  FITA ADESIVA MEDIO BRW AZUL;103;brw_suporte_fita_adesiva_medio;N;N;N;N;N;S
+5176;TESOURA 17CM BLISTER BRW;103;brw_tesoura_17cm_blister;N;N;N;N;N;S
+5353;TESOURA 21CM BLISTER BRW;103;brw_tesoura_21cm_blister;N;N;N;N;N;S
+2222;TESOURA ESCOLAR 13CM BRW;103;brw_tesoura_escolar_13cm;N;N;N;N;N;S
+3534;PALITO DENTE MADEI BILLA EMBALADO 2000UN;101;billa_palito_dente_2000;S;S;S;N;N;N
+3627;PANO MULTIUSO BILLA AZUL 600UN;102;billa_pano_multiuso_azul;S;S;S;S;N;N
+2619;PANO MULTIUSO BILLA LARANJA 600UN;102;billa_pano_multiuso_laranja;S;S;S;S;N;N
+5766;CEREAL BALL M.LEITE BRANCO TOP 500 GR;106;harald_ceral_ball_micro_ao_leite_500g;N;S;S;N;N;S
+2925;CHOCOLATE EM PÓ 33% HARALD 1,05KG;106;harald_chocolate_em_po_33p_1050g;N;S;S;N;N;S
+2926;COB FRACIONADA AO LEITE HARALD 1,05KG;106;harald_cobertura_fracionada_ao_leite_1050g;N;S;S;N;N;S
+2933;COB FRACIONADA BRNCA HARALD 1,05KG;106;harald_cobertura_fracionada_branca_1050g;N;S;S;N;N;S
+2921;COB RASPAR COBRIR AO LEITE HARALD 5KG;106;harald_cobertura_raspar_cobrir_ao_leite_5kg;N;S;S;N;N;S
+2922;COB RASPAR COBRIR BRANCA HARALD 5KG;106;harald_cobertura_raspar_cobrir_branca_5kg;N;S;S;N;N;S
+2920;COB RASPAR COBRIR MEIO AMARGA HARALD 5KG;106;harald_cobertura_raspar_cobrir_meio_amarga_5kg;N;S;S;N;N;S
+4108;COB TOP AO LEITE HARALD 1,05KG;106;harald_cobertura_top_ao_leite_1050g;N;S;S;N;N;S
+4106;COB TOP BRANCA HARALD 1,05KG;106;harald_cobertura_top_branca_1050g;N;S;S;N;N;S
+4107;COB TOP MEIO AMARGO HARALD 1,05KG;106;harald_cobertura_top_meio_amarga_1050g;N;S;S;N;N;S
+2930;FLOCOS DE ARROZ HARALD 500G;106;harald_flocos_de_arroz_500g;N;S;S;N;N;S
+5757;GANACHE BRANCO MELKEN HARALD 4KG;106;harald_ganache_branco_melken_4kg;N;S;S;N;N;S
+5769;GRANULADO CHOC ESC CONF HARALD 400G;106;harald_granulado_chocolate_escuro_confeiteiro_400g;N;S;S;N;N;S
+2931;GRANULADO CROC ESCURO  HARALD 1,05KG;106;harald_granulado_crocante_escuro_1050g;N;S;S;N;N;S
+4433;GRANULADO MACIO ESC CONF HARALD 1,05KG;100;harald_granulado_macio_escuro_confeiteiro_1050g;N;S;S;N;N;S
+4550;INOVARE BARRA AO LEITE MELKEN 1,05KG;106;harald_inovare_barra_ao_leite_1050g;N;S;S;N;N;S
+4548;INOVARE BARRA CARAMELAT MELKEN 1,05KG;106;harald_inovare_barra_caramelo_1050g;N;S;S;N;N;S
+4549;INOVARE BARRA INTENSO MELKEN 1,05KG;106;harald_inovare_barra_intenso_1050g;N;S;S;N;N;S
+2917;MELKEN BEIJINHO COCO HARALD 1,01KG;106;harald_melken_beijinho_coco_1kg;N;S;S;N;N;S
+5113;MELKEN BEIJINHO COCO HARALD 500G;106;harald_melken_beijinho_coco_500g;N;S;S;N;N;S
+2916;MELKEN BRIGADEIRO HARALD 1,01KG;106;harald_melken_brigadeiro_1kg;N;S;S;N;N;S
+5114;MELKEN BRIGADEIRO HARALD 500G;106;harald_melken_brigadeiro_500g;N;S;S;N;N;S
+5760;MELKEN CACAU EM PO 100% HARALD 500G;106;harald_melken_cacau_em_po_100_500g;N;S;S;N;N;S
+5628;MELKEN CHOCOLATE BRANCO HARALD 1,05KG;106;harald_melken_chocolate_branco_1050g;N;S;S;N;N;S
+5765;MELKEN MEIO AMARGO HARALD 1,05KG;106;harald_melken_meio_amargo_1050g;N;S;S;N;N;S
+5756;RECHEIO COBERTURA CHOC MELKEN HARALD 4KG;106;harald_recheio_cobertura_chocolate_melken_4kg;N;S;S;N;N;S
+5768;ROLL CHOC DUO UNIQUE 250G;106;harald_roll_choc_duo_unique_500g;N;S;S;N;N;S
+5777;CAIXA ARQUIVO COMERCIAL POLYCART AZUL;103;polycart_caixa_arquivo_morto;N;N;N;N;N;S
+5778;CAIXA ARQUIVO COMERCIAL POLYCART CINZA;103;polycart_caixa_arquivo_morto;N;N;N;N;N;S
+5775;CAIXA ARQUIVO COMERCIAL POLYCART PRETO;103;polycart_caixa_arquivo_morto;N;N;N;N;N;S
+5774;CAIXA ARQUIVO COMERCIAL POLYCART VERDE;103;polycart_caixa_arquivo_morto;N;N;N;N;N;S
+5776;CAIXA ARQUIVO COMERCIAL POLYCART VERME;103;polycart_caixa_arquivo_morto;N;N;N;N;N;S
+3338;MALETA ARQUIVO PRETA POLYCART C10 PASTAS;103;polycart_maleta_arquivo_com_10_pastas;N;N;N;N;N;S
+3395;CAIXA CORRESPOND DUPLA WALEU CRISTAL;103;waleu_caixa_correspondencia_dupla_cristal;N;N;N;N;N;S
+3396;CAIXA CORRESPOND DUPLA WALEU FUME;103;waleu_caixa_correspondencia_dupla_fume;N;N;N;N;N;S
+4350;CAIXA CORRESPOND SIMPLES WALEU CRISTAL;103;waleu_caixa_correspondencia_simples_cristal;N;N;N;N;N;S
+3397;CAIXA CORRESPOND TRIPLA WALEU CRISTAL;103;waleu_caixa_correspondencia_tripla_cristal;N;N;N;N;N;S
+3398;CAIXA CORRESPOND TRIPLA WALEU FUME;103;waleu_caixa_correspondencia_tripla_fume;N;N;N;N;N;S
+3417;EXPOSITOR OFFICE BRANCO WALEU;103;waleu_expositor_office;N;N;N;N;N;S
+5710;GAVETEIRO C/ 4 GAVETAS WALEU PRETO;103;waleu_gaveteiro_com_4_gavetas_preto;N;N;N;N;N;S
+4997;ORGANIZADOR DE CHAVES C/50 WALEU;103;waleu_chaveiro;N;N;N;N;N;S
+3414;ORGANIZADOR MOEDAS WALEU CRISTAL;103;waleu_organizador_moedas;N;N;N;N;N;S
+3404;PORTA CANETAS/CLIPS/LEMBR WALEU CRISTAL;103;waleu_porta_caneta_clips_lembrete_cristal;N;N;N;N;N;S
+3405;PORTA CANETAS/CLIPS/LEMBR WALEU FUME;103;waleu_porta_caneta_clips_lembrete_fume;N;N;N;N;N;S
+5713;PRANCHETA SUPER WALEU CRISTAL;103;waleu_prancheta_super_cristal;N;N;N;N;N;S
+3528;PORTA CANUDOS METAL AURIMAR BRANCO;101;aurimar_porta_canudo_metal_branco;N;N;S;N;N;N
+3722;COBERTURA CHOCOLATE DU PORTO 1,3KG;100;du_porto_cobertura_1300g;N;N;N;N;N;N
+3728;COBERTURA CHOCOLATE DU PORTO 300G;100;du_porto_cobertura_chocolate_300g;N;N;N;N;N;N
+3737;PO PARA GELADOS LEITE COND DU PORTO 1KG;100;du_porto_po_para_gelados_leite_condensado_1kg;N;N;N;N;N;N
+4880;PASTA 12 DIV A4 PLASCONY AZUL;103;plascony_pasta_12div_duplicata;N;N;N;N;N;S
+3806;PASTA 31 DIV CHEQUE PLASCONY AZUL;103;plascony_pasta_31div_cheque;N;N;N;N;N;S
+3809;PASTA 31 DIV DUPLICATA PLASCONY AZUL;103;plascony_pasta_31div_duplicata;N;N;N;N;N;S
+3816;PASTA 31 DIV OFICIO PLASCONY AZUL;103;plascony_pasta_31div_bicolor;N;N;N;N;N;S
+3780;PASTA ABA 30 PLASCONY AMARELA;103;plascony_pasta_aba_30;N;N;N;N;N;S
+3839;PASTA CATALOGO A4 PLASCONY AZUL;103;plascony_pasta_catalogo;N;N;N;N;N;S
+3797;PASTA TRILHO OF PLASCONY AMARELA;103;plascony_pasta_trilho;N;N;N;N;N;S
+4163;ELASTICO PREMIER 1000GR;103;premier_elastico;N;N;N;N;N;S
+4162;ELASTICO PREMIER 500GR ;103;premier_elastico;N;N;N;N;N;S
+4161;ELASTICO PREMIER 50GR ;103;premier_elastico;N;N;N;N;N;S
+4221;KIT POTE CRISTALPPOTE 250ML;101;cristalppote_kit_pote_com_tampa_250ml;N;S;N;S;N;N
+4298;MASSA ELASTICA 500G ARCOLOR;106;arcollor_massa_elastica_500g;S;N;N;N;N;N
+4300;PASTA AMERICANA AVELA 800G ARCOLOR;106;arcollor_pasta_americana_800g;S;N;N;N;N;N
+5421;BOTA LIGHT BOOT ANTIDERRAP BRANC BB85 36;102;works_bota_bb85_branca;S;N;S;N;N;N
+5292;SAPATILHA EVA WORKS BR BB50 34;102;works_sapatilha_bb50_branca;S;N;S;N;N;N
+5293;SAPATILHA EVA WORKS PR BB50 34;102;works_sapatilha_bb50_preta;S;N;S;N;N;N
+5280;TENIS EVA WORKS ANTIDERRAP BR BB60 33/34;102;works_tenis_bb60_branco;S;N;S;N;N;N
+5304;TENIS EVA WORKS ANTIDERRAP BRANC BB65 34;102;works_tenis_bb65_branco;S;N;S;N;N;N
+5281;TENIS EVA WORKS ANTIDERRAP PR BB60 33/34;102;works_tenis_bb60_preto;S;N;S;N;N;N
+5305;TENIS EVA WORKS ANTIDERRAP PRETO BB65 34;102;works_tenis_bb65_preto;S;N;S;N;N;N
+5680;TENIS EVA WORKS ANTIDERRAP PRETO BB80 34;102;works_tenis_bb80_preto;S;N;S;N;N;N
+1276;CANETA COMPACTOR 07 AZUL;103;compactor_caneta_07;N;N;N;N;N;S
+5602;LIMPADOR P QUADRO BR BRILLANT COMPACTOR;103;compactor_limpador_quadro_branco_brillant;N;N;N;N;N;S
+5624;MARCADOR PERM COMPACTOR AZUL ABASTECER;103;compactor_marcador_permanente_para_abastecer;N;N;N;N;N;S
+5594;MARCADOR QUADRO BRANCO COMPACTOR AZUL;103;compactor_marcador_quadro_branco;N;N;N;N;N;S
+5592;TINTA P MARCADOR PERM COMPACTOR AZUL;103;compactor_tinta_marcador_permanente;N;N;N;N;N;S
+5625;PASTAMIX 800G;106;mix_pastamix_800g;S;N;N;N;N;N

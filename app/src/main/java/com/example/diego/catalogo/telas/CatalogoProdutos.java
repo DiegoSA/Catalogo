@@ -53,7 +53,15 @@ public class CatalogoProdutos extends AppCompatActivity {
                         cursor = dbController.listarProdutos(opcao);
                         break;
                     case 3:
-                        opcao = "mercadinho = 'S'";
+                        int subgrupo = bundle.getInt("subgrupo");
+                        switch (subgrupo){
+                            case 1:
+                                opcao = "mercadinho = 'S' AND consumo = 'S'";
+                                break;
+                            case 2:
+                                opcao = "mercadinho = 'S' AND revenda = 'S'";
+                                break;
+                        }
                         cursor = dbController.listarProdutos(opcao);
                         break;
                     case 4:
