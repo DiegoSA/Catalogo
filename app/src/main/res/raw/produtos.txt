@@ -1,3 +1,13 @@
+2866;ACUCAR COLOR AMARELO 500G MILCORES;106;mavalerio_acucar_colorido_amarelo_500g;N;S;N;N;N;S
+1075;ACUCAR COLOR AMARELO 80G MILCORES;106;mavalerio_acucar_colorido_amarelo_80g;N;S;N;N;N;S
+2959;ACUCAR COLOR AZUL 500G MIL CORES;106;mavalerio_acucar_colorido_azul_500g;N;S;N;N;N;S
+1066;ACUCAR COLOR AZUL 80G MILCORES;106;mavalerio_acucar_colorido_azul_80g;N;S;N;N;N;S
+2867;ACUCAR COLOR BRANCO 500G MIL CORES;106;mavalerio_acucar_colorido_branco_500g;N;S;N;N;N;S
+2868;ACUCAR COLOR ROSA 500G MIL CORES;106;mavalerio_acucar_colorido_rosa_500g;N;S;N;N;N;S
+1078;ACUCAR COLOR ROSA 80G MIL CORES;106;mavalerio_acucar_colorido_rosa_80g;N;S;N;N;N;S
+2869;ACUCAR COLOR VERDE 500G MIL CORES;106;mavalerio_acucar_colorido_verde_500g;N;S;N;N;N;S
+2870;ACUCAR COLOR VERMELHO 500G MIL CORES;106;mavalerio_acucar_colorido_vermelho_500g;N;S;N;N;N;S
+4219;AÇÚCAR DE CONFEITEIRO 1KG SNOW SUGAR;106;mavalerio_acucar_confeiteiro_1kg_snow_sugar;N;S;N;N;N;S
 4424;BOBINA SILFER 1 VIA 57X30 APERGAMINHADO;103;silfer_bobina_offset_57x30_1via;N;N;N;N;S;N
 5233;BOBINA SILFER 2 VIAS 89X22;103;silfer_bobina_89x22_2_vias;N;N;N;N;N;N
 4402;BOBINA SILFER AMARELA 80X40;103;silfer_bobina_termica_amarela_80x40;S;S;S;S;S;N
@@ -13,10 +23,23 @@
 125;DISPENSER MULTIPLO PREMISSE URBAN BCO;102;premisse_dispenser_multiplo_urban_branco;S;S;S;S;S;N
 126;DISPENSER MULTIPLO PREMISSE VERDE ;102;premisse_dispenser_multiplo_urban_verde;S;S;S;S;S;N
 1386;DISPENSER P SAB ESPUM PREMISSE CLEAN BCA;102;premisse_dispenser_sabonete_espuma_clean_branco;S;S;S;S;S;N
+1080;AROMA ARTIFICIAL BAUNILHA MAVALERIO 30ML;106;mavalerio_aroma_artificial_baunilha_30ml;N;S;N;N;N;S
 142;DISPENSER P SAB PREMISSE COMP GLASS AZUL;102;premisse_dispenser_sabonete_compacta_glass_azul;S;S;S;S;S;N
 141;DISPENSER P SAB PREMISSE COMP GLASS VERD;102;premisse_dispenser_sabonete_compacta_glass_verde;S;S;S;S;S;N
 2351;DISPENSER P SAB PREMISSE VELOX;102;premisse_dispenser_sabonete_velox_branco;S;S;S;S;S;N
 1426;DISPENSER P SAB URBAN  BRANCO;102;premisse_dispenser_sabonete_urban_branco;S;S;S;S;S;N
+1831;BALAO TOP 6.5 AMARELO;101;riberball_balao_top_65_amarelo;N;S;N;N;N;S
+1830;BALAO TOP 6.5 AZUL CLARO;101;riberball_balao_top_65_azul_claro;N;S;N;N;N;S
+1829;BALAO TOP 6.5 AZUL ESCURO;101;riberball_balao_top_65_azul_escuro;N;S;N;N;N;S
+1828;BALAO TOP 6.5 BRANCO;101;riberball_balao_top_65_branco;N;S;N;N;N;S
+1834;BALAO TOP 6.5 LARANJA;101;riberball_balao_top_65_laranja;N;S;N;N;N;S
+1840;BALAO TOP 6.5 LILAS;101;riberball_balao_top_65_lilas;N;S;N;N;N;S
+1835;BALAO TOP 6.5 PRETO;101;riberball_balao_top_65_preto;N;S;N;N;N;S
+1825;BALAO TOP 6.5 ROSA BABY;101;riberball_balao_top_65_rosa_baby;N;S;N;N;N;S
+1836;BALAO TOP 6.5 ROSA FORTE;101;riberball_balao_top_65_rosa_forte;N;S;N;N;N;S
+1827;BALAO TOP 6.5 VERDE ESCURO;101;riberball_balao_top_65_verde_escuro;N;S;N;N;N;S
+1839;BALAO TOP 6.5 VERDE LIMÃO;101;riberball_balao_top_65_verde_limao;N;S;N;N;N;S
+1833;BALAO TOP 6.5 VERMELHO;101;riberball_balao_top_65_vermelho;N;S;N;N;N;S
 2348;DISPENSER P SAB URBAN  BRANCO P ABASTECE;102;premisse_dispenser_sabonete_urban_abastecer_branco;S;S;S;S;S;N
 1427;DISPENSER P SAB URBAN ESPUMA BRANCO;102;premisse_dispenser_sabonete_urban_espuma_branco;S;S;S;S;S;N
 5650;DISPENSER P SAB URBAN GLASS AMARELO;102;premisse_dispenser_sabonete_urban_glass_amarelo;S;S;S;S;S;N
@@ -54,6 +77,7 @@
 5242;ALCOOL P/ RECHAUD GEL 80 AUDAX 10KG;102;audax_alcool_rechaud_80_10kg;N;N;S;N;N;N
 162;AMACIANTE AUDAX CLASSICO 2LT;102;audax_amaciante_classico_2l;S;S;N;N;N;N
 5641;AMACIANTE AUDAX CLASSICO 5L;102;audax_amaciante_classico_5l.jpg;S;S;N;N;N;N
+2958;CACAU EM PO ALCALINO 500G MAVALERIO;106;mavalerio_cacau_po_alcalino_500g;N;S;N;N;N;S
 2967;BASE SELADORA INNOVATION AUDAX 5LT;102;audax_base_seladora_innovation;S;N;S;N;N;N
 2011;CERA LIQUIDA INNOVATION AUDAX 5LT;102;audax_cera_liquida_innovation;S;N;S;N;N;N
 140;DESINF CLEOSOL AUDAX LAVANDA 5LT;102;audax_desinfetante_cleosol_lavanda;S;N;S;N;N;N
@@ -75,6 +99,13 @@
 1168;ARMACAO BRALIMPIA 60CM PROFI;102;brlimpia_armacao_profissional;S;N;S;N;N;N
 2991;BALDE 4L C ALCA BRALIMPIA VERMELHO;102;bralimpia_balde_4l_com_alca;S;N;S;N;N;N
 836;BALDE ESPREMEDOR BRALIMPIA DOBLO AMARELO;102;bralimpia_balde_espremedor_doblo_amarelo;S;N;S;N;N;N
+3193;CEREAL DRAG AO LEITE 500G MAVALERIO;100;mavalerio_ceral_drag_ao_leite_500g;N;S;S;N;N;S
+2847;CEREAL DRAG MICRO COLORID 500G MAVALERIO;100;mavalerio_ceral_drag_micro_colorido_500g;N;S;S;N;N;S
+1336;CEREAL DRAG MICRO LEIT/BR 500G MAVALERIO;100;mavalerio_ceral_drag_micro_leite_branco_500g;N;S;S;N;N;S
+1071;CEREAL DRAG MICRO LEIT/BRA 80G MAVALERIO;100;mavalerio_ceral_drag_micro_leite_branco_80g;N;S;S;N;N;S
+2977;CEREAL DRAG MINI BRANCO 500G MAVALERIO;100;mavalerio_ceral_drag_mini_branco_500g;N;S;S;N;N;S
+1069;CEREAL DRAG MINI LEIT/BRA 500G MAVALERIO;100;mavalerio_ceral_drag_mini_leite_branco_500g;N;S;S;N;N;S
+1070;CEREAL DRAG MINI LEIT/BRA 80G MAVALERIO;100;mavalerio_ceral_drag_mini_leite_branco_80g;N;S;S;N;N;S
 837;BALDE ESPREMEDOR BRALIMPIA DOBLO AZUL;102;bralimpia_balde_espremedor_doblo_azul;S;N;S;N;N;N
 838;BALDE ESPREMEDOR BRALIMPIA DOBLO VERDE;102;bralimpia_balde_espremedor_doblo_verde;S;N;S;N;N;N
 839;BALDE ESPREMEDOR BRALIMPIA DOBLO VERMELH;102;bralimpia_balde_espremedor_doblo_vermelho;S;N;S;N;N;N
@@ -90,8 +121,16 @@
 1506;CESTO BASC BRALIMPIA 23LT VERMELHO;102;bralimpia_cesto_basculhante_23l_vermelho;S;N;S;N;N;N
 5361;CESTO GARI 120LT C RODA BRALIMPIA AZUL;102;bralimpia_cesto_gari_com_rodas_120l_azul;S;N;S;N;N;N
 1903;CESTO GARI 120LT C RODA BRALIMPIA BRANCO;102;bralimpia_cesto_gari_120l;S;N;S;N;N;N
+2858;CHOCOLATE EM PÓ 32% 1KG  MAVALERIO;106;mavalerio_chocolate_po_32p_1kg;N;S;S;N;N;S
 3754;CESTO GARI 120LT C RODA BRALIMPIA VERDE;102;bralimpia_cesto_gari_com_rodas_120l_verde;S;N;S;N;N;N
+2976;CHOCOLATE EM PÓ 50% 1KG MAVALERIO;106;mavalerio_chocolate_po_50p_1kg;N;S;S;N;N;S
 2026;CESTO GARI 120LT C RODA BRALIMPIA VERMEL;102;bralimpia_cesto_gari_com_rodas_120l_vermelho;S;N;S;N;N;N
+2673;COB FRAC BRANCA PREMIUM 1KG MAVALERIO;106;mavalerio_cob_frac_branca_premium_1kg;N;S;S;N;N;S
+2672;COB FRAC MEIO AMARGA PREMIUM 1KG MAVALER;106;mavalerio_cob_frac_meoi_amarga_premium_1kg;N;S;S;N;N;S
+2671;COB FRAC PREMIUM CHOC LEIT 1KG MAVALERIO;106;mavalerio_cob_frac_ao_leite_premium_1kg;N;S;S;N;N;S
+2864;COB PRATICA AO LEITE 1KG MAVALERIO;106;mavalerio_cob_pratica_ao_leite_1kg;N;S;S;N;N;S
+2862;COB PRATICA BRANCO 1KG MAVALERIO;106;mavalerio_cob_pratica_branca_1kg;N;S;S;N;N;S
+2865;COB PRATICA MEIO AMARGA 1KG MAVALERIO;106;mavalerio_cob_pratica_meio_amarga_1kg;N;S;S;N;N;S
 3226;COMBINADO BRALIMPIA COM CABO 25CM;102;bralimpia_combinado_com_cabo;S;N;S;N;N;N
 2990;CONJUNTO BRALIMPIA HIGH TECH 40CM;102;bralimpia_conjunto_high_tech_40cm;S;N;S;N;N;N
 2367;ENCERADEIRA BRALIMPIA MOD.440MM 220V;102;bralimpia_enceradeira_440mm;S;N;S;N;N;N
@@ -111,6 +150,20 @@
 2365;LIXEIRA 50L ALÇA/TAMPA BRALIMPIA VERMELH;102;bralimpia_lixeira_50l_com_alca;S;N;S;N;N;N
 5360;LIXEIRA P COPOS AZUL BRALIMPIA;101;bralimpia_lixeira_para_copos;S;N;S;S;N;N
 5668;LIXEIRA S GRAV BRALIMPIA 50L AMAREL FERR;102;bralimpia_lixeira_50l_sem_gravuras_com_ferragens;S;N;S;N;N;N
+1609;CONF ALUMIZAD0 N02 80G MIL CORES;106;mavalerio_confetio_aluminizado_n2_80g;N;S;S;N;N;S
+3191;CONF BRIG REDONDO 500G MIL CORES;106;mavalerio_confeito_brigadeiro_redondo_500g;N;S;S;N;N;S
+2848;CONF FIG BORBOLETA 250G MIL CORES;106;mavalerio_confeito_figura_borboleta_250g;N;S;S;N;N;S
+2856;CONF FIG BORBOLETA 50G MIL CORES;106;mavalerio_confeito_figura_borboleta_50g;N;S;S;N;N;S
+2682;CONF FIG CONFETE 250G MIL CORES;106;mavalerio_confeito_figura_confete_250g;N;S;S;N;N;S
+2679;CONF FIG CONFETE 50G MIL CORES;106;mavalerio_confeito_figura_confete_50g;N;S;S;N;N;S
+2849;CONF FIG FUNDO DO MAR 250G MIL CORES;106;mavalerio_confeito_figura_fundo_mar_250g;N;S;S;N;N;S
+2857;CONF FIG FUNDO DO MAR 50G MIL CORES;106;mavalerio_confeito_figura_fundo_mar_50g;N;S;S;N;N;S
+5657;CONF FIG MINI CONFETE 250G MIL CORES;106;mavalerio_confeito_figura_miniconfete_250g;N;S;S;N;N;S
+2680;CONF FIG MINI CONFETE 50G MIL CORES;106;mavalerio_confeito_figura_miniconfete_50g;N;S;S;N;N;S
+2681;CONF FIG PURA CORAÇÃO 250G MIL CORES;106;mavalerio_confeito_figura_coracao_250g;N;S;S;N;N;S
+1082;CONF FIG PURA CORAÇÃO 50G MIL CORES;106;mavalerio_confeito_figura_coracao_50g;N;S;S;N;N;S
+2683;CONF FIG PURA ESTRELA 250G MIL CORES;106;mavalerio_confeito_figura_estrelinha_250g;N;S;S;N;N;S
+1081;CONF FIG PURA ESTRELA 50G MIL CORES;106;mavalerio_confeito_figura_estrelinha_50g;N;S;S;N;N;S
 5669;LIXEIRA S GRAV BRALIMPIA 50L AZUL FERRAG;102;bralimpia_lixeira_50l_sem_gravuras_com_ferragens;S;N;S;N;N;N
 833;LT BRALIMPIA EURO AZUL;102;bralimpia_lt_euro_azul;S;N;S;N;N;N
 816;MINI KIT BRALIMPIA;102;bralimpia_mini_kit;S;N;S;N;N;N
@@ -169,6 +222,58 @@
 3967;REFIL MOP ESFREGAO ALGODAO ZIG BETTANIN;102;bettanin_refil_algodao;S;N;S;N;N;N
 3968;REFIL MOP ESFREGAO LIMPATUDO BETTANIN;102;bettanin_refil_limpatudo;S;N;S;N;N;N
 3963;REFIL MOP LUSTRADOR ALGODAO ZIG BETTANIN;102;bettanin_refil_lustrador_algodao;S;N;S;N;N;N
+2314;EMBALAGEM ORIENTAL GALVANOTEK GO 900 PRT;101;galvanotek_embalagem_oriental_go900;N;S;S;N;S;N
+2315;EMBALAGEM ORIENTAL GALVANOTEK GO 905 PRT;101;galvanotek_embalagem_oriental_go905;N;S;S;N;S;N
+5671;EMBALAGEM ORIENTAL GALVANOTEK GO 908 PRT;101;galvanotek_embalagem_oriental_go908;N;S;S;N;S;N
+2316;EMBALAGEM ORIENTAL GALVANOTEK GO 912 PRT;101;galvanotek_embalagem_oriental_go912;N;S;S;N;S;N
+2318;EMBALAGEM ORIENTAL GALVANOTEK GO 918 PRT;101;galvanotek_embalagem_oriental_go918;N;S;S;N;S;N
+4858;EMBALAGEM ORIENTAL GALVANOTEK GO 930;101;galvanotek_embalagem_oriental_go930;N;S;S;N;S;N
+4859;EMBALAGEM ORIENTAL GALVANOTEK GO 935;101;galvanotek_embalagem_oriental_go935;N;S;S;N;S;N
+5049;EMBALAGEM PLAST DELTA GALVANOTEK G 32A;101;galvanotek_embalagem_delta_g32a;N;S;N;N;S;N
+5050;EMBALAGEM PLAST DELTA GALVANOTEK G 50A;101;galvanotek_embalagem_delta_g50a;N;S;N;N;S;N
+3214;EMBALAGEM PLAST GALVANOTEK 3DIV G 330 BR;101;galvanotek_embalagem_3_divisorias_g330;N;S;S;N;S;N
+3213;EMBALAGEM PLAST GALVANOTEK 3DIV G 331 BR;101;galvanotek_embalagem_3_divisorias_g331;N;S;S;N;S;N
+3215;EMBALAGEM PLAST GALVANOTEK ALTA G 50;101;galvanotek_embalagem_alta_g50;N;S;N;N;S;N
+3216;EMBALAGEM PLAST GALVANOTEK ALTA G 56;101;galvanotek_embalagem_alta_g56;N;S;N;N;S;N
+3217;EMBALAGEM PLAST GALVANOTEK ALTA G 60;101;galvanotek_embalagem_alta_g60;N;S;N;N;S;N
+583;EMBALAGEM PLAST GALVANOTEK ALTA G 80;101;galvanotek_embalagem_alta_g80;N;S;N;N;S;N
+1108;EMBALAGEM PLAST GALVANOTEK DIAMANT G 640;101;galvanotek_embalagem_diamante_g640;N;S;N;N;S;N
+3910;EMBALAGEM PLAST GALVANOTEK DIAMANT G 642;101;galvanotek_embalagem_diamante_g642;N;S;N;N;S;N
+5044;EMBALAGEM PLAST GALVANOTEK DIAMANT G 645;101;galvanotek_embalagem_diamante_g645;N;S;N;N;S;N
+4367;EMBALAGEM PLAST GALVANOTEK DIAMANT G 750;101;galvanotek_embalagem_diamante_g750;N;S;N;N;S;N
+5048;EMBALAGEM PLAST GALVANOTEK DIAMANT G 771;101;galvanotek_embalagem_diamante_g771;N;S;N;N;S;N
+4582;EMBALAGEM PLAST GALVANOTEK FRANGO G 100;101;galvanotek_embalagem_frango_g100;N;S;N;N;S;N
+4068;EMBALAGEM PLAST GALVANOTEK G 300;101;galvanotek_embalagem_g300;N;S;S;N;S;N
+577;EMBALAGEM PLAST GALVANOTEK G 301;101;galvanotek_embalagem_g301;N;S;S;N;S;N
+4069;EMBALAGEM PLAST GALVANOTEK G 302;101;galvanotek_embalagem_g302;N;S;S;N;S;N
+5146;EMBALAGEM PLAST GALVANOTEK G 303;101;galvanotek_embalagem_g303;N;S;S;N;S;N
+4366;EMBALAGEM PLAST GALVANOTEK G 309;101;galvanotek_embalagem_g309;N;S;S;N;S;N
+5462;EMBALAGEM PLAST GALVANOTEK G 310/200;101;galvanotek_embalagem_g310_200;N;S;N;N;S;N
+5045;EMBALAGEM PLAST GALVANOTEK G 310/250;101;galvanotek_embalagem_g310_250;N;S;N;N;S;N
+5046;EMBALAGEM PLAST GALVANOTEK G 310/500;101;galvanotek_embalagem_g310_350;N;S;N;N;S;N
+5630;EMBALAGEM PLAST GALVANOTEK G 324;101;galvanotek_embalagem_g324;N;S;N;N;S;N
+4364;EMBALAGEM PLAST GALVANOTEK G 560;101;galvanotek_embalagem_g560;N;S;N;N;S;N
+5047;EMBALAGEM PLAST GALVANOTEK G 635;101;galvanotek_embalagem_g635;N;S;N;N;S;N
+578;EMBALAGEM PLAST GALVANOTEK G 650;101;galvanotek_embalagem_g650;N;S;S;N;S;N
+4365;EMBALAGEM PLAST GALVANOTEK G 695;101;galvanotek_embalagem_g695;N;S;S;N;S;N
+569;EMBALAGEM PLAST GALVANOTEK G 750;101;galvanotek_embalagem_g750;N;S;N;N;S;N
+4361;EMBALAGEM PLAST GALVANOTEK G26I SALADEIR;101;galvanotek_embalagem_saladeira_g26i;N;S;N;N;S;N
+575;EMBALAGEM PLAST GALVANOTEK GA 08;101;galvanotek_embalagem_ga08;N;S;S;N;S;N
+574;EMBALAGEM PLAST GALVANOTEK GA 10;101;galvanotek_embalagem_ga10;N;S;S;N;S;N
+3906;EMBALAGEM PLAST GALVANOTEK GA 17 ROCAMBO;101;galvanotek_embalagem_rocambole_ga17;N;S;S;N;S;N
+3907;EMBALAGEM PLAST GALVANOTEK GA 18 ROCAMBO;101;galvanotek_embalagem_rocambole_ga18;N;S;S;N;S;N
+576;EMBALAGEM PLAST GALVANOTEK GA 20;101;galvanotek_embalagem_ga20;N;S;S;N;S;N
+5463;EMBALAGEM PLAST GALVANOTEK GF 501;101;galvanotek_embalagem_gf501;N;S;N;N;S;N
+3905;EMBALAGEM PLAST GALVANOTEK MEDIA G 32;101;galvanotek_embalagem_media_g32;N;S;N;N;S;N
+580;EMBALAGEM PLAST GALVANOTEK MEDIA G 50;101;galvanotek_embalagem_media_g50;N;S;S;N;S;N
+581;EMBALAGEM PLAST GALVANOTEK MEDIA G 56;101;galvanotek_embalagem_media_g56;N;S;S;N;S;N
+4515;EMBALAGEM PLAST GALVANOTEK MEDIA G 56F;101;galvanotek_embalagem_media_g56f;N;S;S;N;S;N
+582;EMBALAGEM PLAST GALVANOTEK MEDIA G 60;101;galvanotek_embalagem_media_g60;N;S;S;N;S;N
+3218;EMBALAGEM PLAST GALVANOTEK MEDIA G 65;101;galvanotek_embalagem_media_g65;N;S;N;N;S;N
+3219;EMBALAGEM PLAST GALVANOTEK MEDIA G 70;101;galvanotek_embalagem_media_g70;N;S;N;N;S;N
+5763;EMBALAGEM PLAST GALVANOTEK MEDIA G 78;101;galvanotek_embalagem_media_g78;N;S;N;N;S;N
+570;EMBALAGEM PLAST GALVANOTEK T SOLTA G 640;101;galvanotek_embalagem_g640;N;S;N;N;S;N
+4583;EMBALAGEM PLAST GALVANOTEK TP FIXA G 742;101;galvanotek_embalagem_g742;N;S;N;N;S;N
 3962;REFIL MOP LUSTRADOR LA BETTANIN;102;bettanin_refil_lustrador_la;S;N;S;N;N;N
 3969;REFIL MOP ZIG ZAG SEKITO BETTANIN;102;bettanin_refil_zig_zag_sekito;S;N;S;N;N;N
 3957;RODO VAI E VEM M BETTANIN;102;bettanin_rodo_vai_vem_m;S;S;S;S;N;S
@@ -177,6 +282,12 @@
 3954;VASSOURA ORIGINAL BETTANIN;102;bettanin_vassoura_original;S;S;S;S;N;S
 783;VASSOURA PISO DELICADO BETTANIN;102;bettanin_vassoura_piso_delicado;S;S;S;S;N;S
 784;VASSOURA VARRY 1000 BETTANIN;102;bettanin_vassoura_varry;S;S;S;S;N;S
+5076;ESPETO DE BAMBU 30CM PARANA C/50UN;101;parana_espto_bambu_30cm;S;S;S;N;N;S
+1112;ESPETO DE BAMBU ARCOIRIS 30CM;101;arcoiris_espeto_bambu_30cm;S;S;S;N;N;S
+1113;ESPETO DE CHURRASCO NATURAL 25CM;101;natural_espeto_churrasco_25cm;S;S;S;N;N;S
+1114;ESPETO DE CHURRASCO NATURAL 30CM;101;natural_espeto_churrasco_30cm;S;S;S;N;N;S
+5074;ESPETO DE MADEIRA 25CM PARANA C/50UN;101;parana_espeto_madeira_25cm;S;S;S;N;N;S
+4940;ESPETO GABOARDI 30CM BAMBU;101;gaboardi_espeto_bambu_30cm;S;S;S;N;N;S
 3982;VASSOURITA BRILHUS BETTANIN;102;bettanin_vassourita_brilhus;S;S;S;S;N;S
 5348;AROMATIZANTE MIRAX AIR RENKO AMADEIR 5L;102;renko_aromatizante_mirax_amadeirado;S;N;N;S;N;N
 5349;AROMATIZANTE MIRAX AIR RENKO FLORES 5L;102;renko_aromatizante_mirax_flores;S;N;N;S;N;N
@@ -194,8 +305,12 @@
 4641;DET DESINF CLORADO CHEF CLOR S  RENKO 5L;102;renko_desinfetante_clorado_chef_clor_s_5l;S;N;N;N;N;N
 659;DET LIQ CONC BRILLIA RENKO NEUTRO 5LT;102;renko_detergente_concentrado_brillia_neutro_5l;S;N;N;N;N;N
 658;DET LIQ CONC RENKO CHEF AMONIACAL 5LT;102;renko_detergente_concentrado_chef_amoniacal_5l;S;N;N;N;N;N
+5503;FOSFORO GABOARDI GIGANTE C/50UN;101;gaboardi_fosforo_gigante;S;S;S;N;N;S
+5587;FOSFORO PARANA ECOLOGICO C/400;101;parana_fosforo_ecologico;S;S;S;N;N;S
+5072;FOSFORO PARANA GIGANTE C/50UN;101;parana_fosforo_gigante;S;S;S;N;N;S
 2696;LAVA LOUCAS DET DERTEX PROF RENKO 5L;102;renko_lava_loucas_detergente_dertex_5l;S;N;S;N;N;N
 2697;LAVA LOUCAS SECANTE SECCA PROF RENKO 5L;102;renko_lava_loucas_secante_secca_5l;S;N;S;N;N;N
+1073;GOTA PINGO SAB. CHOCOLATE TIPO 2000 MAVA;106;mavalerio_gota_pingo_chocolate_tipo_2000_1kg;N;S;S;N;N;S
 4502;LIMP CHEF MULTIUSO LIMA LIMAO 5LT;102;renko_limpador_multiuso_chef_lima_limao_5l;S;N;N;N;N;N
 4627;LIMP DESINCRUST KLYO RENKO DESINF 5LT;102;renko_limpador_desincrustante_klyo_desinf_5l;S;N;N;N;N;N
 654;LIMP GERAL KLYO RENKO ACAI C GUARANA 5LT;102;renko_limpador_geral_klyo_acai_c_guarana;S;N;N;N;N;N
@@ -207,6 +322,19 @@
 4637;LIMP PISO PORCELANATOS KLYO RENKO 5L;102;renko_limpador_piso_porcelanatos_klyo_floor_5l;S;N;N;N;N;N
 4646;LIMPA INOX KLYO RENKO 5L;102;renko_limpa_inox_klyo_5l;S;N;S;N;N;N
 1733;LIMPA VIDRO KLYO RENKO 5LT;102;renko_limpa_vidros_klyo_5l;S;S;S;N;N;N
+2854;GRAN CROC AMARELO 500G MIL CORES;106;mavalerio_granulado_crocante_amarelo_500g;N;S;S;N;N;S
+2852;GRAN CROC AZUL 500G MIL CORES;106;mavalerio_granulado_crocante_azul_500g;N;S;S;N;N;S
+2674;GRAN CROC BRANCO 500G MIL CORES;106;mavalerio_granulado_crocante_branco_500g;N;S;S;N;N;S
+1072;GRAN CROC CHOCOLATE 150G MIL CORES;106;mavalerio_granulado_crocante_chocolate_150g;N;S;S;N;N;S
+2676;GRAN CROC CHOCOLATE 500G MIL CORES;106;mavalerio_granulado_crocante_chocolate_500g;N;S;S;N;N;S
+1257;GRAN CROC CHOCOLATE 80G MIL CORES;106;mavalerio_granulado_crocante_chocolate_80g;N;S;S;N;N;S
+1332;GRAN CROC COLORIDO 150G MIL CORES;106;mavalerio_granulado_crocante_colorido_150g;N;S;S;N;N;S
+2675;GRAN CROC COLORIDO 500G MIL CORES;106;mavalerio_granulado_crocante_colorido_500g;N;S;S;N;N;S
+1258;GRAN CROC COLORIDO 80G MIL CORES;106;mavalerio_granulado_crocante_colorido_80g;N;S;S;N;N;S
+2853;GRAN CROC ROSA 500G MIL CORES;106;mavalerio_granulado_crocante_rosa_500g;N;S;S;N;N;S
+2851;GRAN CROC VERDE 500G MIL CORES;106;mavalerio_granulado_crocante_verde_500g;N;S;S;N;N;S
+2855;GRAN CROC VERMELHO 500G MIL CORES;106;mavalerio_granulado_crocante_vermelho_500g;N;S;S;N;N;S
+3192;GRAN MACIO CHOCOLATE 1,01KG MIL CORES;100;mavalerio_granulado_macio_chocolate_1kg;N;S;S;N;N;S
 5347;LIMPADOR GERAL KLYO OXY 5L;102;renko_limpador_geral_klyo_oxy_5l;S;N;N;N;N;N
 5350;REMOVEDOR CERA ATIWAX RENKO 5L;102;renko_removedor_cera_atiwax_5l;S;N;S;S;N;N
 5706;RENOVA INOX KLYO RENKO 5L;102;renko_renova_inox_klyo5l;S;N;S;N;N;N
@@ -278,6 +406,7 @@
 2216;ESTILETE PROF.18MM C/ TRAVA DE SEGUR BRW;103;brw_estilete_18mm_com_trava_seguranca;N;N;N;N;N;S
 4922;ESTILETE USO PROF.18MM BRW;103;brw_estilete_18mm_uso_profissional;N;N;N;N;N;S
 2217;EXTRATOR DE GRAMPO BRW;103;brw_extratro_grampo;N;N;N;N;N;S
+5629;MINIPASTILHA CHOCOGIROS 70G MAVALERIO;106;mavalerio_minipastilha_chocogiros_70g;N;S;S;N;N;S
 3468;FITA ADES BRW TRANSP 45MMX45M;103;brw_fita_adesiva_45x45;N;N;N;N;N;S
 4348;FITA CORRETIVA BRW 5MMX6M;103;brw_fita_corretiva;N;N;N;N;N;S
 4920;GRAMPEADOR BRW 25FLS 20CM;103;brw_grampeador_25f_20cm;N;N;N;N;N;S
@@ -301,7 +430,11 @@
 5182;LAPIS VERDE HB SEXTAVADO BRW;103;brw_lapis_verde_hb_sextavado;N;N;N;N;N;S
 2105;MARCA TEXTO BRW AMARELO;103;brw_marca_texto_amarelo;N;N;N;N;N;S
 2106;MARCA TEXTO BRW AZUL;103;brw_marca_texto_azul;N;N;N;N;N;S
+5077;PALITO DE PETISCO PARANA C/100UN;101;parana_palito_pestiscos;S;S;S;N;N;S
+3847;PALITO DENTAL NATURAL EMBALADO C/2000UN;101;natural_palito_dental_embalado_2000un;S;S;S;N;N;S
+4718;PALITO DENTE BAMBU BILLA CX5000UN;101;billa_palitos_bambu_5000un;S;S;S;N;N;S
 3663;MARCA TEXTO BRW LARANJA;103;brw_marca_texto_laranja;N;N;N;N;N;S
+2617;PALITO DENTE MENTOLADO BILLA 1000UN;101;billa_palito_mentolado_1000un;S;S;S;N;N;S
 3662;MARCA TEXTO BRW ROSA;103;brw_marca_texto_rosa;N;N;N;N;N;S
 2107;MARCA TEXTO BRW VERDE;103;brw_marca_texto_verde;N;N;N;N;N;S
 3469;MARCADOR CD DVD BRW PRETO;103;brw_marcador_cd_dvd_preto;N;N;N;N;N;S
@@ -364,11 +497,16 @@
 4997;ORGANIZADOR DE CHAVES C/50 WALEU;103;waleu_chaveiro;N;N;N;N;N;S
 3414;ORGANIZADOR MOEDAS WALEU CRISTAL;103;waleu_organizador_moedas;N;N;N;N;N;S
 3404;PORTA CANETAS/CLIPS/LEMBR WALEU CRISTAL;103;waleu_porta_caneta_clips_lembrete_cristal;N;N;N;N;N;S
+5764;POTE C TAMPA LACRE GALVANOTEK 500ML G732;101;galvanotek_pote_com_tampa_lacre_g732;N;S;N;N;S;N
+4764;POTE RETANGULAR GALVANOTEK 250ML GA 88;101;galvanotek_pote_retangular_ga88;N;S;N;N;S;N
 3405;PORTA CANETAS/CLIPS/LEMBR WALEU FUME;103;waleu_porta_caneta_clips_lembrete_fume;N;N;N;N;N;S
+1413;PRENDEDOR DE ROUPAS PARANA MADEIRA;101;parana_prendedor_roupas_madeira;S;S;N;N;N;S
+5073;PRENDEDOR DE ROUPAS PARANA PLASTICO;101;parana_prendedor_roupas_plastico;S;S;N;N;N;S
 5713;PRANCHETA SUPER WALEU CRISTAL;103;waleu_prancheta_super_cristal;N;N;N;N;N;S
 3528;PORTA CANUDOS METAL AURIMAR BRANCO;101;aurimar_porta_canudo_metal_branco;N;N;S;N;N;N
 3722;COBERTURA CHOCOLATE DU PORTO 1,3KG;100;du_porto_cobertura_1300g;N;N;N;N;N;N
 3728;COBERTURA CHOCOLATE DU PORTO 300G;100;du_porto_cobertura_chocolate_300g;N;N;N;N;N;N
+5400;RECHEIO CHOC AO LEITE MAVALERIO 1,01KG;106;mavalerio_recheio_chocolate_ao_leite_1kg;N;S;S;N;N;S
 3737;PO PARA GELADOS LEITE COND DU PORTO 1KG;100;du_porto_po_para_gelados_leite_condensado_1kg;N;N;N;N;N;N
 4880;PASTA 12 DIV A4 PLASCONY AZUL;103;plascony_pasta_12div_duplicata;N;N;N;N;N;S
 3806;PASTA 31 DIV CHEQUE PLASCONY AZUL;103;plascony_pasta_31div_cheque;N;N;N;N;N;S
