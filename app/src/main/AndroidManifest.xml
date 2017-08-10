@@ -6,9 +6,10 @@
         android:allowBackup="true"
         android:icon="@drawable/icone_catalogo"
         android:label="@string/app_name"
-        android:roundIcon="@mipmap/ic_launcher_round"
+        android:roundIcon="@drawable/icone_catalogo"
         android:supportsRtl="true"
-        android:theme="@style/AppTheme">
+        android:theme="@style/AppTheme"
+        android:resizeableActivity="true">
         <activity android:name="com.example.diego.catalogo.telas.SplashCatalogo"
             android:screenOrientation="portrait">
             <intent-filter>

@@ -1,6 +1,5 @@
 package com.example.diego.catalogo.telas;
 
-import android.app.Dialog;
 import android.content.Intent;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
@@ -134,7 +133,6 @@ public class TelaOpcoes extends AppCompatActivity {
                                         ad = dialog.create();
                                         ad.show();
 
-
                                         final Button consumo = (Button) ad.findViewById(R.id.buttonConsumo);
                                         final Button revenda = (Button) ad.findViewById(R.id.buttonrRevenda);
 
@@ -157,9 +155,6 @@ public class TelaOpcoes extends AppCompatActivity {
                                                 startActivity(intent);
                                             }
                                         });
-
-                                        //dialog.show();
-
                                         break;
                                     case R.id.radioButtonRestaurantes:
                                         intent = new Intent(TelaOpcoes.this, CatalogoProdutos.class);
