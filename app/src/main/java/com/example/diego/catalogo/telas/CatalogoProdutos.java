@@ -12,6 +12,8 @@ import android.widget.GridView;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
+
+import com.bumptech.glide.Glide;
 import com.example.diego.catalogo.auxiliares.Produtos;
 import com.example.diego.catalogo.banco.DBController;
 import com.example.suporte.catalogo.R;
@@ -94,9 +96,15 @@ public class CatalogoProdutos extends AppCompatActivity {
                 final TextView descricao = (TextView) dialog.findViewById(R.id.textViewInfProd);
                 descricao.setText(nomeProduto);
                 final ImageView fotoProduto = (ImageView) dialog.findViewById(R.id.imageViewInfProd);
-                fotoProduto.setImageResource(produtos.get(position).getImagem());
+                Glide.with(getBaseContext())
+                        .load(produtos.get(position).getImagem())
+                        .override(400,400)
+                        .fitCenter()
+                        .into(fotoProduto);
+
+                /*fotoProduto.setImageResource(produtos.get(position).getImagem());
                 fotoProduto.setLayoutParams(new LinearLayout.LayoutParams(400,400));
-                fotoProduto.setAdjustViewBounds(true);
+                fotoProduto.setAdjustViewBounds(true);*/
                 dialog.show();
             }
         });
