@@ -76,7 +76,6 @@
 4631;ALCOOL 96 AUDAX  1L;102;audax_alcool_96_1l;S;S;S;S;N;S
 5242;ALCOOL P/ RECHAUD GEL 80 AUDAX 10KG;102;audax_alcool_rechaud_80_10kg;N;N;S;N;N;N
 162;AMACIANTE AUDAX CLASSICO 2LT;102;audax_amaciante_classico_2l;S;S;N;N;N;N
-5641;AMACIANTE AUDAX CLASSICO 5L;102;audax_amaciante_classico_5l.jpg;S;S;N;N;N;N
 2958;CACAU EM PO ALCALINO 500G MAVALERIO;106;mavalerio_cacau_po_alcalino_500g;N;S;N;N;N;S
 2967;BASE SELADORA INNOVATION AUDAX 5LT;102;audax_base_seladora_innovation;S;N;S;N;N;N
 2011;CERA LIQUIDA INNOVATION AUDAX 5LT;102;audax_cera_liquida_innovation;S;N;S;N;N;N
@@ -120,7 +119,6 @@
 1504;CESTO BASC BRALIMPIA 23LT AZUL;102;bralimpia_cesto_basculhante_23l_azul;S;N;S;N;N;N
 1506;CESTO BASC BRALIMPIA 23LT VERMELHO;102;bralimpia_cesto_basculhante_23l_vermelho;S;N;S;N;N;N
 5361;CESTO GARI 120LT C RODA BRALIMPIA AZUL;102;bralimpia_cesto_gari_com_rodas_120l_azul;S;N;S;N;N;N
-1903;CESTO GARI 120LT C RODA BRALIMPIA BRANCO;102;bralimpia_cesto_gari_120l;S;N;S;N;N;N
 2858;CHOCOLATE EM PÓ 32% 1KG  MAVALERIO;106;mavalerio_chocolate_po_32p_1kg;N;S;S;N;N;S
 3754;CESTO GARI 120LT C RODA BRALIMPIA VERDE;102;bralimpia_cesto_gari_com_rodas_120l_verde;S;N;S;N;N;N
 2976;CHOCOLATE EM PÓ 50% 1KG MAVALERIO;106;mavalerio_chocolate_po_50p_1kg;N;S;S;N;N;S

@@ -13,12 +13,14 @@
         android:foregroundGravity="center_vertical|center_horizontal|center"
         android:gravity="center_vertical|center_horizontal|center"
         android:orientation="horizontal"
-        tools:layout_editor_absoluteX="9dp"
+        android:weightSum="1"
+        tools:layout_editor_absoluteX="8dp"
         tools:layout_editor_absoluteY="9dp">
 
         <LinearLayout
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
+            android:layout_weight="0.45"
             android:background="@android:color/transparent"
             android:foregroundGravity="left"
             android:gravity="left"
@@ -26,8 +28,8 @@
 
             <Button
                 android:id="@+id/buttonConsumo"
-                android:layout_width="150dp"
-                android:layout_height="75dp"
+                android:layout_width="171dp"
+                android:layout_height="match_parent"
                 android:background="#1c344e"
                 android:text="CONSUMO"
                 android:textColor="@android:color/white"
@@ -53,8 +55,8 @@
 
             <Button
                 android:id="@+id/buttonrRevenda"
-                android:layout_width="150dp"
-                android:layout_height="75dp"
+                android:layout_width="183dp"
+                android:layout_height="match_parent"
                 android:background="#80090d"
                 android:text="REVENDA"
                 android:textColor="@android:color/white"
